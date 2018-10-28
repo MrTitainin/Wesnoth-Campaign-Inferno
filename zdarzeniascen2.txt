@@ -85,7 +85,7 @@ Bezręki: Latające ścierwo. Dopadnę cię!
 16a.Wejście na górny punkt obserwacyjny, gdy poszliśmy najpierw w górę
 Marvo: Ta rzeka lawy zdaje się ciągnąć w nieskończoność... Niesamowite, fantastyczne, wspaniałe! O, jakiś łuk. Wezmę go sobie.
 16b.
-Marvo: Ta rzeka lawy zdaje się ciągnąć w nieskończoność... Niesamowite, fantastyczne, wspaniałe! O, jest jakiś łuk. Gdybym znalazł do niego strzały
+Marvo: Ta rzeka lawy zdaje się ciągnąć w nieskończoność... Niesamowite, fantastyczne, wspaniałe! O, jest jakiś łuk. Gdybym znalazł do niego strzały mógłbym zrobić coś z tym chochlikiem.
 17a.Wejście na most do jaskini impów (jeden z tych blisko strażników)
 Marvo: Jakiś chochlik blokuje przejście zamykając mostek.
 Strażnik jaskini 1: Skoro twój pan nie może przejść, to czemu sam mu nie pomożesz? Idź ubij tego chochlika czy coś. Nie mam wyposażenia do takiej roboty.
@@ -119,8 +119,8 @@ Marvo: No i zabrał sobie łuk. Ech...
 19. Wejście do przedsionka
 Strażnik przejścia 1: A ty gdzie niewolniku?
 Bezręki: Idzie do środka właśnie.
-Strażnik przejścia 1: Nie ma przejścia do środka właśnie.
-Bezręki: Co jest dzisiaj, jakaś banda kretynów? A zresztą, co ja się będę przejmował.
+Strażnik przejścia 1: Dzisiaj jest ważne wydarzenie. Nie ma wchodzenia do środka właśnie.
+Bezręki: Co jest dzisiaj, jakaś banda kretynów? A zresztą, co ja się będę przejmował. Radź sobie sam.
 (bezręki wchodzi do środka i znika)
 Marvo: Nie no, po prostu świetnie.
 20. Wejście na tory ogarów
@@ -128,4 +128,13 @@ Strażnik toru 3: Hej! Niewolnik! Nie tędy droga.
 Marvo: Ale tamtędy nie dają mi przejść.
 Strażnik toru 3: Co jest, wystawili dzisiaj samych idiotów na strażach? HEJ, WY TAM! MACIE GO PRZEPUŚCIĆ! I 'POROZMAWIAMY' JESZCZE NA TEN TEMAT! A ty co tu jeszcze stoisz? To nie miejsce dla niewolników.
 
-Jak już wejdziemy do środka to jest ten proces czy coś, to sami sobie napiszcie. + dialogi śmierci Marvo i Bezrękiego.
+---
+Jak już wejdziemy do środka to jest ten proces czy coś, to sami sobie napiszcie.
+---
+
+??. Śmierć Marvo przed spotkaniem bezrękiego
+Marvo: Ja.. ginę?
+??. -||- po spotkaniu bezrękiego
+Bezręki: Najwidoczniej i tak nic by z ciebie nie wyszło. No nic, tu i tak nie da się umrzeć bardziej... do zobaczenia za milion lat, może krócej...
+??. Śmierć bezrękiego
+Marvo: Nie! Nie zostawiaj mnie tu... samego... proszę!
