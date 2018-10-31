@@ -1,4 +1,4 @@
-Spodziewana kolejność zdarzeń:
+﻿Spodziewana kolejność zdarzeń:
 1.Pobudka
 (stary dialog 1)
 Marvo: Gdzie... gdzie ja jestem? Moja. Głowa. Czuję się... jakoś tak pusty w środku. Ugh.
@@ -119,18 +119,28 @@ Marvo: No i zabrał sobie łuk. Ech...
 19. Wejście do przedsionka
 Strażnik przejścia 1: A ty gdzie niewolniku?
 Bezręki: Idzie do środka właśnie.
-Strażnik przejścia 1: Dzisiaj jest ważne wydarzenie. Nie ma wchodzenia do środka właśnie.
-Bezręki: Co jest dzisiaj, jakaś banda kretynów? A zresztą, co ja się będę przejmował. Radź sobie sam.
+Strażnik przejścia 1: Dzisiaj jest ważne wydarzenie. Niewolnicy nie mogą się wałęsać po mieście.
+Bezręki: Co jest dzisiaj, jakaś banda kretynów? A zresztą, co ja się będę przejmował. Radź sobie sam, jesteśmy już na terenie pilnowanym, tuż przy wejściu do miasta.
 (bezręki wchodzi do środka i znika)
 Marvo: Nie no, po prostu świetnie.
 20. Wejście na tory ogarów
 Strażnik toru 3: Hej! Niewolnik! Nie tędy droga.
 Marvo: Ale tamtędy nie dają mi przejść.
 Strażnik toru 3: Co jest, wystawili dzisiaj samych idiotów na strażach? HEJ, WY TAM! MACIE GO PRZEPUŚCIĆ! I 'POROZMAWIAMY' JESZCZE NA TEN TEMAT! A ty co tu jeszcze stoisz? To nie miejsce dla niewolników.
-
----
-Jak już wejdziemy do środka to jest ten proces czy coś, to sami sobie napiszcie.
----
+21. Wejście do środka (na bazie dialogu ?11)
+Bezręki: O, widzę, że mnie dogoniłeś. Przed nami znajduje się miasto - Irxerivethg. W Arrainot nigdzie nie bywa bezpiecznie, ale przynajmniej znaleźć tam można chwilę wytchnienia.
+Marvo: Iks... Irkse... Nieważne. Co robiłeś w tych tunelach?
+Bezręki: Wracałem od znajomego, właściciela plantacji zgniłodrzewia. Zazwyczaj w tych korytarzach jest znacznie spokojniej. Ty zaś, bezwolny...
+Marvo: ...Nazywam się Marvo.
+Bezręki: Tutaj Bezwolni podobni tobie muszą zasłużyć sobie na imię. Pewnie dostaniesz ksywkę lub numerek, kiedy już znajdą dla ciebie właściciela.
+Marvo: Doprawdy? A ty masz jakieś imię?
+Bezręki: Zabawny z ciebie diablik. Ależ oczywiście, że mam. Na imię mi Anuhvarran.
+Marvo: Amhrv... 
+Marvo:...ładne imię, tak sądzę.
+Bezręki: Hihihih, naprawdę, naprawdę zabawny. Podobasz mi się. Jeszcze chwila i rozważę Twój zakup.
+Marvo: ...
+Bezręki: Z tą zdębiałą miną wyglądasz bardziej głupio niż normalnie, a myślałem, że to niemożliwe. Ruszajmy, musisz zostać zarejestrowany w mieście żeby nie mieć problemów. I oczywiście żebym ja nie miał problemów.
+--- koniec scenariusza
 
 ??. Śmierć Marvo przed spotkaniem bezrękiego
 Marvo: Ja.. ginę?
