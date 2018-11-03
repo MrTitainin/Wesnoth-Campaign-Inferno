@@ -1,0 +1,150 @@
+﻿Spodziewana kolejność zdarzeń:
+1.Pobudka
+(stary dialog 1)
+Marvo: Gdzie... gdzie ja jestem? Moja. Głowa. Czuję się... jakoś tak pusty w środku. Ugh.
+Zakopali mnie gdzieś? To wygląda jak opuszczona kopalnia. Muszę się z niej wydostać.
+2.Wyjście z ciemnego tunelu na przestrzeń z lawą
+(stary dialog 8)
+Marvo: Gorąco tutaj, jednak moja skóra nadal jest chłodna i sucha. Jeszcze chwila i ugotuję się tu żywcem...
+3.Starcie z nasnasem
+Marvo: O, nasnas. Natychmiast wyjaśnij mi co tu się dzieje.
+Nasnas: Wriaa!!! Hmwrrr...
+Marvo: Dziki nasnas? Ciekawe...
+4.Pierwsze wejście na dowolny punkt obserwacyjny
+Marvo: Muszę przyznać, że okolica wygląda imponująco, a zarazem wzbudza we mnie silny niepokój.
+5.Wejście na most prowadzący na wyspę nasnasów
+Strażnik wyspy nasnasów: Hej, ty tam. Widziałeś nasnasa, niewolniku?
+Marvo: Widziałem wiele nasnasów, a za tobą widzę jeszcze więcej. A tak poza tym to nie jestem niewolnikiem.
+Strażnik wyspy nasnasów: Najwyraźniej jednak jesteś. Idź dalej, nic tu po tobie.
+Marvo: Co za impertynencja! Gdybym miał swój miecz, to już by cię tu nie było.
+Strażnik wyspy nasnasów: ...
+Marvo: Bałwan.
+6.Wejście na punkt obserwacyjny powyżej wyspy nasnasów
+Marvo: O, mostek. Ciekawe jak tam dojść i dokąd prowadzi.
+7.Starcie z pierwszym diablęciem
+(stary dialog 4)
+Marvo: Człowiek nie powinien mieć tylu oczu! Ani ust, ani.. bleh, nie skomentuję tego.
+8.Spotkanie bezrękiego
+(stary dialog 6)
+Marvo: Ty! Nie! Odejdź ode mnie! Won!
+Bezręki: Hmmm... zbiegły niewolnik? A co ty robisz tak daleko od manufaktury? Będę to musiał zgłosić...
+Marvo: Nie jestem niczyim niewolnikiem! Zaraz... czy zostałem sprzedany?! Gdzie ja jestem?!!
+Bezręki: Och. Rozumiem. Z pewnością czujesz się teraz mocno skołowany. Ale powinieneś się tego spodziewać. Wszystko było przecież zawarte w cyrografie
+Marvo:...
+Marvo: Czy ja jestem w Piekle?
+Bezręki: Prawidłowa nazwa tego miejsca to Arrainot, Ziemie Zgryzoty, ale "Piekło" jest łatwiejsze do zapamiętania. Tak, umarłeś, i teraz w ramach zawartej umowy twoja powłoka dołączyła do nas tu, na dole.
+Marvo: Nienienienienie. To się NIE DZIEJE. Ja nie mogę siedzieć tu na dole z potworami. To mi się śni. Zaraz... zaraz się ob-budzę i wszystko będzie w najlepszym porządku.
+Bezręki: Nazywasz nas poworami choć sam nie wyglądasz lepiej. To nieuprzejme.
+Marvo: Co się... Moja twarz! Ochydstwo! Wyglądam jak koszmar senny!
+Bezręki: Uspokój się i słuchaj - wyprowadzę cię stąd do najbliższego miasta, te tunele nie należą do bezpiecznych. A potem... potem zobaczymy.
+9.Wejście na most do pól diabląt
+Marvo: O, diablęta. Całkiem sporo ich tu. Ach ta ich tendencja do przybierania dziwnych kształtów, nigdy nie przestanie mnie zadziwiać w co potrafią się zamienić.
+Bezręki: Tylko nie zbliżaj się do strażników, lądowanie w lawie może być dosyć nieprzyjemne.
+10.Osunięcie się ziemii
+Marvo: AAAA!!!
+Marvo: Czy ty to widziałeś?
+(a - gdy bezręki jest przed rozpadliną)
+Bezręki: To się zdarza, zgłoszę komu trzeba i ktoś to naprawi lub przekopie nowy tunel. Na razie pójdziemy na około, a na przyszłość uważaj gdzie stąpasz
+(b - gdy bezręki jest za rozpadliną)
+Bezręki: To się zdarza, zgłoszę komu trzeba i ktoś to naprawi lub przekopie nowy tunel. Na razie pójdź na około, a na przyszłość uważaj gdzie stąpasz
+11.Kolejne starcie z diablęciem (obok stoi nasnas)
+Marvo: Wyglądacie zupełnie jak tamte wioskowe dziewczyny... Odrażające. Czy w tym piekielnym świecie nie ma żadnych pięknych kobiet!?
+Bezręki: Masz wymagania...
+Nasnas: Uaaa! Wiać!
+(nasnas ucieka)
+12.Wejście na most do gniazd chochlików lub przynajmniej w tą okolicę
+(dwa chochliki przelatują od gniazd do terenów gdzieś na wschód
+Strażnik gniazd 1: I widzisz co narobiłeś? Dorwałeś tego nasnasa, za to chochliki zwiały. Zadowolony z siebie?
+Strażnik gniazd 2: To czemu ich nie dopilnowałeś? Po to jest tu nas trzech żebyśmy wszyscy pilnowali.
+Strażnik gniazd 1: A bo to ja mam za wszystkich pilnować?
+Strażnik gniazd 3: Co jest?
+Strażnik gniazd 1: Dhre'val wypuścił chochliki.
+Strażnik gniazd 2: Nie wypuściłem chochlików! To Seghr'ghral pozwolił im uciec.
+Strażnik gniazd 3: Mordy, barany! Kazałbym wam teraz obu gonić za tymi chochlikami, ale sam nie będę tu stał i pilnował. Macie tu stać i pilnować. Pilnować, żeby chochliki nie uciekały. To naprawdę nie jest skomplikowane zadanie. Ile razy trzeba będzie to jeszcze tłumaczyć?
+Marvo: Oho, awantura.
+Bezręki: Lepiej się nie wtrącaj, bo inaczej wrobią cię w wypuszczenie tych chochlików. Gonienie za nimi to najlepsze, co mogłoby cię po takim oskarżeniu spotkać.
+13a.Starcie z chochlikiem jeżeli Marvo szedł pierwszy
+(na bazie dialogu 2)
+(chochlik nadlatuje od strony lawy i atakuje Marvo)
+Marvo: Marvo: Ugh! Co to... Co to jest! Won ode mnie! Łapy precz!
+Bezręki: Taki wyniosły a chochlika nie widział?
+13b.Starcie z chochlikiem jeżeli Bezręki szedł pierwszy
+(chochlik nadlatuje od strony lawy i atakuje Bezrękiego)
+Bezręki: No proszę, szybko się znalazł.
+14.Wejście na teren rozwidlenia
+Bezręki: Już prawie jesteśmy...
+(wchodzi na pole zamku przy lawie stojącej na drodze)
+(na lawie pojawia się mostek, po drugiej stronie pojawia się chochlik, mostek znika, chochlik też)
+Bezręki:...
+Bezręki: Co?!
+(na lawie pojawia się mostek, po drugiej stronie pojawia się chochlik, mostek znika, chwila przerwy i druga próba, która też nic nie daje)
+Bezręki: Mała wredna latająca kreatura! Siedzi i nic tylko zamyka! Już ja dopilnuję, żeby nic z niego nie pozostało! Idź rozejrzyj się za strażnikami.
+---Tutaj historia może potoczyć się na dwa sposoby, w zależności od tego, czy Marvo pójdzie w górę czy w dół. Bezręki nie może się ruszać z zamku i co turę próbuje zamknąć mostek.
+15.Bezręki bezskutecznie próbuje zamknąć mostek
+Bezręki: Latające ścierwo. Dopadnę cię!
+16a.Wejście na górny punkt obserwacyjny, gdy poszliśmy najpierw w górę
+Marvo: Ta rzeka lawy zdaje się ciągnąć w nieskończoność... Niesamowite, fantastyczne, wspaniałe! O, jakiś łuk. Wezmę go sobie.
+16b.
+Marvo: Ta rzeka lawy zdaje się ciągnąć w nieskończoność... Niesamowite, fantastyczne, wspaniałe! O, jest jakiś łuk. Gdybym znalazł do niego strzały mógłbym zrobić coś z tym chochlikiem.
+17a.Wejście na most do jaskini impów (jeden z tych blisko strażników)
+Marvo: Jakiś chochlik blokuje przejście zamykając mostek.
+Strażnik jaskini 1: Skoro twój pan nie może przejść, to czemu sam mu nie pomożesz? Idź ubij tego chochlika czy coś. Nie mam wyposażenia do takiej roboty.
+Marvo: Mam tu jakiś łuk, ale nie mam strzał.
+Strażnik jaskini 2: O, to łuk Erg'echa. Ale się zdziwi. Może by mu tak go zepsuć? A tak właściwie po co mu łuk?
+Strażnik jaskini 1: W sumie nie wiem. Chyba wziął jako łup z powierzchni. Strzelałeś kiedyś z łuku?
+Strażnik jaskini 2: Nie, nigdy. Chodźmy sprawdzić na tym chochliku.
+Strażnik jaskini 1: Nie, nie, nie. Ja idę sprawdzić, a ty tu stoisz i pilnujesz.
+Strażnik jaskini 2: Grhmfp.
+(strażnik jaskini 1 podchodzi do bezrękiego)
+Bezręki: No, nareszcie! Ustrzel tego chochlika, strażniku! Tu są jakieś strzały.
+(chochlik ginie po trzecim strzale, bezręki zamyka mostek, strażnik wraca na posterunek)
+Bezręki: No, nareszcie.
+Marvo: No i zabrał sobie łuk. Ech...
+17b.
+Marvo: Jakiś chochlik blokuje przejście zamykając mostek.
+Strażnik jaskini 1: Skoro twój pan nie może przejść, to czemu sam mu nie pomożesz? Ja nie mam wyposażenia do takiej roboty. Potrzebowałbym czegoś, żeby go ustrzelić. Idź się sam tym zajmij, niewolniku.
+Marvo: Nie jestem... A, zresztą.
+18a.Powrót na rozwidlenie po dialogu 16a
+Bezręki: Gdzie się wałęsasz?! Tam żadnych strażników nie ma, są w drugą stronę.
+Marvo: Sam byś sobie po nich poszedł.
+Bezręki: IDŹ, TĘPAKU!
+Marvo: Dobra, dobra.
+18b.Powrót na rozwidlenie po dialogach 17b i 16b
+(strażnik jaskini 1 podchodzi bliżej)
+Strażnik jaskini 1: W sumie, to powinienem się tym zająć. O, widzę, że masz łuk Erg'echa.
+Bezręki: Szybciej tam, chcę mieć głowę tego chochlika! Tu leżą jakieś strzały.
+(chochlik ginie po trzecim strzale, bezręki zamyka mostek, strażnik wraca na posterunek)
+Bezręki: No, nareszcie.
+Marvo: No i zabrał sobie łuk. Ech...
+19. Wejście do przedsionka
+Strażnik przejścia 1: A ty gdzie niewolniku?
+Bezręki: Idzie do środka właśnie.
+Strażnik przejścia 1: Dzisiaj jest ważne wydarzenie. Niewolnicy nie mogą się wałęsać po mieście.
+Bezręki: Co jest dzisiaj, jakaś banda kretynów? A zresztą, co ja się będę przejmował. Radź sobie sam, jesteśmy już na terenie pilnowanym, tuż przy wejściu do miasta.
+(bezręki wchodzi do środka i znika)
+Marvo: Nie no, po prostu świetnie.
+20. Wejście na tory ogarów
+Strażnik toru 3: Hej! Niewolnik! Nie tędy droga.
+Marvo: Ale tamtędy nie dają mi przejść.
+Strażnik toru 3: Co jest, wystawili dzisiaj samych idiotów na strażach? HEJ, WY TAM! MACIE GO PRZEPUŚCIĆ! I 'POROZMAWIAMY' JESZCZE NA TEN TEMAT! A ty co tu jeszcze stoisz? To nie miejsce dla niewolników.
+21. Wejście do środka (na bazie dialogu ?11)
+Bezręki: O, widzę, że mnie dogoniłeś. Przed nami znajduje się miasto - Irxerivethg. W Arrainot nigdzie nie bywa bezpiecznie, ale przynajmniej znaleźć tam można chwilę wytchnienia.
+Marvo: Iks... Irkse... Nieważne. Co robiłeś w tych tunelach?
+Bezręki: Wracałem od znajomego, właściciela plantacji zgniłodrzewia. Zazwyczaj w tych korytarzach jest znacznie spokojniej. Ty zaś, bezwolny...
+Marvo: ...Nazywam się Marvo.
+Bezręki: Tutaj Bezwolni podobni tobie muszą zasłużyć sobie na imię. Pewnie dostaniesz ksywkę lub numerek, kiedy już znajdą dla ciebie właściciela.
+Marvo: Doprawdy? A ty masz jakieś imię?
+Bezręki: Zabawny z ciebie diablik. Ależ oczywiście, że mam. Na imię mi Anuhvarran.
+Marvo: Amhrv... 
+Marvo:...ładne imię, tak sądzę.
+Bezręki: Hihihih, naprawdę, naprawdę zabawny. Podobasz mi się. Jeszcze chwila i rozważę Twój zakup.
+Marvo: ...
+Bezręki: Z tą zdębiałą miną wyglądasz bardziej głupio niż normalnie, a myślałem, że to niemożliwe. Ruszajmy, musisz zostać zarejestrowany w mieście żeby nie mieć problemów. I oczywiście żebym ja nie miał problemów.
+--- koniec scenariusza
+
+??. Śmierć Marvo przed spotkaniem bezrękiego
+Marvo: Ja.. ginę?
+??. -||- po spotkaniu bezrękiego
+Bezręki: Najwidoczniej i tak nic by z ciebie nie wyszło. No nic, tu i tak nie da się umrzeć bardziej... do zobaczenia za milion lat, może krócej...
+??. Śmierć bezrękiego
+Marvo: Nie! Nie zostawiaj mnie tu... samego... proszę!
