@@ -1,0 +1,152 @@
+Am I dead?
+Wiedziałem, że zatryjumfuję. Ich brudne, niewydarzone gęby patrzyły na mnie z niemym przerażeniem. Dwudziestu na jednego? Toż to nierówna walka - opity krwią byłem szybszy od kobry i silniejszy od tura. Nie planowałem organizować im masakry - wystarczyłaby jedynie drobna nauczka, parę rozwalonych domów, parę nowych nagrobków na przykaplicznym cmentarzu. W końcu te biedne ludki zapewniały przychód na moich ziemiach.
+Niestety, nie przewidziałem jednego - gdy tydzień temu obchodzone były święta Szumiących Pól, które wolałem zignorować na dnie kieliszka, kapłan smoka pozwolił sobie poświęcić narzędzia rolne na znak dobrych zbiorów w przyszłości. Większość broni nie imała się mej skóry, co innego wcześniej poświęcona... Mój uśmiech wygiął się w grymas przerażenia, gdy poczułem ostry ból w klatce piersiowej - szybki i krótki.
+Po nim nastąpiła jedynie ciemność i chłód.
+teamname^Wampirians
+Marvo
+teamname^Demons
+Velruste, Supervisor of Southwestern Irxerivethg Gate Guards
+teamname^Wild demons
+Kind Of Guardian
+Some Guardian
+Guardian Number One
+Guardian Number Two
+Biger Guardian
+Smaller Guardian
+Dumb Guardian
+Ugly Guardian
+Strange Guardian
+Really Big Commander Guard
+Nasnases' Island
+Inferior Demons' Plains
+Spawns' Nests
+Imps' Training Ground
+Hounds' Racetrack
+Pesky Spawn
+Gdzie... gdzie ja jestem? Moja. Głowa. Czuję się... jakoś tak pusty w środku. Ugh.
+Zakopali mnie gdzieś? To wygląda jak opuszczona kopalnia. Muszę się z niej wydostać.
+Get out of the tunnel
+Find out what happened to you
+Death of Marvo
+Turning on sound effects is highly recomended for keeping up with the storyline
+Gorąco tutaj, jednak moja skóra nadal jest chłodna i sucha. Jeszcze chwila i ugotuję się tu żywcem...
+Find out what happened to you
+Death of Marvo
+In this scenario castles heal your units as they stand on them.
+Castles with guardians blocks the way. However, standing on duty for hours makes almost everyone a talkative person.
+Turning on sound effects is highly recomended for keeping up with the storyline
+Visit everything to gather information and reveal the map quickly.
+Muszę przyznać, że okolica wygląda imponująco, a zarazem wzbudza we mnie silny niepokój.
+Some Nasnas
+O, nasnas. Natychmiast wyjaśnij mi co tu się dzieje.
+Wriaa!!! Hmwrrr...
+Dziki nasnas? Ciekawe...
+Agressive Nasnas
+Hej, ty tam. Widziałeś nasnasa, niewolniku?
+Widziałem wiele nasnasów, a za tobą widzę jeszcze więcej. A tak poza tym to nie jestem niewolnikiem.
+Najwyraźniej jednak jesteś. Idź dalej, nic tu po tobie.
+Co za impertynencja! Gdybym miał swój miecz, to już by cię tu nie było.
+Rude Guardian
+...
+Bałwan.
+Very Ugly Demon
+Człowiek nie powinien mieć tylu oczu! Ani ust, ani.. bleh, nie skomentuję tego.
+Marvo: O, mostek. Ciekawe jak tam dojść i dokąd prowadzi.
+Armless
+Ty! Nie! Odejdź ode mnie! Won!
+Hmmm... zbiegły niewolnik? A co ty robisz tak daleko od manufaktury? Będę to musiał zgłosić...
+Nie jestem niczyim niewolnikiem! Zaraz... czy zostałem sprzedany?! Gdzie ja jestem?!!
+Och. Rozumiem. Z pewnością czujesz się teraz mocno skołowany. Ale powinieneś się tego spodziewać. Wszystko było przecież zawarte w cyrografie
+...
+Czy ja jestem w Piekle?
+Prawidłowa nazwa tego miejsca to Arrainot, Ziemie Zgryzoty, ale 'Piekło' jest łatwiejsze do zapamiętania. Tak, umarłeś, i teraz w ramach zawartej umowy twoja powłoka dołączyła do nas tu, na dole.
+Nienienienienie. To się NIE DZIEJE. Ja nie mogę siedzieć tu na dole z potworami. To mi się śni. Zaraz... zaraz się ob-budzę i wszystko będzie w najlepszym porządku.
+Nazywasz nas poworami choć sam nie wyglądasz lepiej. To nieuprzejme.
+Co się... Moja twarz! Ochydstwo! Wyglądam jak koszmar senny!
+Uspokój się i słuchaj - wyprowadzę cię stąd do najbliższego miasta, te tunele nie należą do bezpiecznych. A potem... potem zobaczymy.
+Go with Armless to the nearest city.
+Death of Marvo
+Death of Armless
+In this scenario castle tiles heal your units as they stand on them.
+Castles with guardians blocks the way. However, standing on duty for hours makes almost everyone a talkative person.
+Unlike other of his kind, Armless cannot pass through unwalkable tiles like lava. For purposes of this scenario, his plague doesn't work either.
+Turning on sound effects is highly recomended for keeping up with the storyline
+You can still reveal map by visiting castles and guards. Take your time.
+O, diablęta. Całkiem sporo ich tu. Ach ta ich tendencja do przybierania dziwnych kształtów, nigdy nie przestanie mnie zadziwiać w co potrafią się zamienić.
+Tylko nie zbliżaj się do strażników, lądowanie w lawie może być dosyć nieprzyjemne. Już patrzą na ciebie podejrzliwie.
+AAAA!!!
+Czy ty to widziałeś?
+To się zdarza, zgłoszę komu trzeba i ktoś to naprawi lub przekopie nowy tunel. Na razie pójdziemy na około, a na przyszłość uważaj gdzie stąpasz.
+To się zdarza, zgłoszę komu trzeba i ktoś to naprawi lub przekopie nowy tunel. Na razie pójdź na około, a na przyszłość uważaj gdzie stąpasz.
+Cowardly Nasnas
+Fugitive Demon
+Wyglądacie zupełnie jak tamte wioskowe dziewczyny... Odrażające. Czy w tym piekielnym świecie nie ma żadnych pięknych kobiet!?
+Masz wymagania...
+Uaaa! Wiać!
+Aaaa!
+I widzisz co narobiłeś? Dorwałeś tego nasnasa, za to chochliki zwiały. Zadowolony z siebie?
+To czemu ich nie dopilnowałeś? Po to jest tu nas trzech żebyśmy wszyscy pilnowali.
+A bo to ja mam za wszystkich pilnować?
+Overgrown Guardian
+Co jest?
+Dhre'val wypuścił chochliki.
+Dhre'val
+Nie wypuściłem chochlików! To Seghr'ghral pozwolił im uciec.
+Seghr'ghral
+Apparently Commander
+Mordy, barany! Kazałbym wam teraz obu gonić za tymi chochlikami, ale sam nie będę tu stał i pilnował. Macie tu stać i pilnować. Pilnować, żeby chochliki nie uciekały. To naprawdę nie jest skomplikowane zadanie. Ile razy trzeba będzie to jeszcze tłumaczyć?
+Oho, awantura.
+Lepiej się nie wtrącaj, bo inaczej wrobią cię w wypuszczenie tych chochlików. Gonienie za nimi to naprawdę najlepsze, co mogłoby cię po takim oskarżeniu spotkać.
+Fugitive Spawn
+Ugh! Co to... Co to jest! Won ode mnie! Łapy precz!
+Taki wyniosły a chochlika nie widział?
+No proszę, szybko się znalazł.
+Już prawie jesteśmy...
+...
+Co?!
+Mała wredna latająca kreatura! Siedzi i nic tylko zamyka! Już ja dopilnuję, żeby nic z niego nie pozostało! Idź rozejrzyj się za strażnikami.
+Find a way to get rid of that annoying spawn. Immediately!
+Death of Marvo
+Death of Armless
+In this scenario castle tiles heal your units as they stand on them.
+Turning on sound effects is highly recomended for keeping up with the storyline
+Ta rzeka lawy zdaje się ciągnąć w nieskończoność... Niesamowite, fantastyczne, wspaniałe! O, jest jakiś łuk. Gdybym znalazł do niego strzały mógłbym zrobić coś z tym chochlikiem.
+W sumie, to powinienem się tym zająć. O, widzę, że masz łuk Erg'echa.
+Szybciej tam, chcę mieć głowę tego chochlika! Tu leżą jakieś strzały.
+Ta rzeka lawy zdaje się ciągnąć w nieskończoność... Niesamowite, fantastyczne, wspaniałe! O, jakiś łuk. Wezmę go sobie.
+Gdzie się wałęsasz?! Tam żadnych strażników nie ma, są w drugą stronę.
+Sam byś sobie po nich poszedł.
+IDŹ, TĘPAKU!
+Dobra, dobra.
+Jakiś chochlik blokuje przejście zamykając mostek.
+Skoro twój pan nie może przejść, to czemu sam mu nie pomożesz? Idź ubij tego chochlika czy coś. Nie mam wyposażenia do takiej roboty.
+Mam tu jakiś łuk, ale nie mam strzał.
+O, to łuk Erg'echa. Ale się zdziwi. Może by mu tak go zepsuć? A tak właściwie po co mu łuk?
+W sumie nie wiem. Chyba wziął jako łup z powierzchni. Strzelałeś kiedyś z łuku?
+Nie, nigdy. Chodźmy sprawdzić na tym chochliku.
+Nie, nie, nie. Ja idę sprawdzić, a ty tu stoisz i pilnujesz.
+Grhmfp.
+No, nareszcie! Ustrzel tego chochlika, strażniku! Tu są jakieś strzały.
+Skoro twój pan nie może przejść, to czemu sam mu nie pomożesz? Ja nie mam wyposażenia do takiej roboty. Potrzebowałbym czegoś, żeby go ustrzelić. Idź się sam tym zajmij, niewolniku.
+Nie jestem... A, zresztą.
+No, nareszcie.
+No i zabrał sobie łuk. Ech...
+A ty gdzie niewolniku?
+Idzie do środka właśnie.
+Dzisiaj jest ważne wydarzenie. Niewolnicy nie mogą się wałęsać po mieście.
+Co jest dzisiaj, jakaś banda kretynów? A zresztą, co ja się będę przejmował. Radź sobie sam, jesteśmy już na terenie pilnowanym, tuż przy wejściu do miasta.
+Nie no, po prostu świetnie.
+Enter whatever is behind that guards
+Death of Marvo
+In this scenario castle tiles heal your units as they stand on them.
+Turning on sound effects is highly recomended for keeping up with the storyline.
+Holding shift while animation of closing the bridge is playing is expected to make this animation faster.
+You can still reveal map by visiting castles and guards (but it's not necessary). Finishing current objective will proceed you to next scenario.
+Hej! Niewolnik! Nie tędy droga.
+Ale tamtędy nie dają mi przejść.
+Co jest, wystawili dzisiaj samych idiotów na strażach? HEJ, WY TAM! MACIE GO PRZEPUŚCIĆ! I 'POROZMAWIAMY' JESZCZE NA TEN TEMAT! A ty co tu jeszcze stoisz? To nie miejsce dla niewolników.
+!!!
+Armless (Anuh-something)
+Am I... dying?
+Najwidoczniej i tak nic by z ciebie nie wyszło. No nic, tu i tak nie da się umrzeć bardziej... do zobaczenia za milion lat, może krócej...
+Nie! Nie zostawiaj mnie tu... samego... proszę!
