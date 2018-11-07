@@ -1,188 +1,188 @@
-Wiedzia³em, ¿e zatryjumfujê. Ich brudne, niewydarzone gêby patrzy³y na mnie z niemym przera¿eniem. Dwudziestu na jednego? To¿ to nierówna walka - opity krwi¹ by³em szybszy od kobry i silniejszy od tura. Nie planowa³em organizowaæ im masakry - wystarczy³aby jedynie drobna nauczka, parê rozwalonych domów, parê nowych nagrobków na przykaplicznym cmentarzu. W koñcu te biedne ludki zapewnia³y przychód na moich ziemiach.
+ï»¿WiedziaÅ‚em, Å¼e zatryjumfujÄ™. Ich brudne, niewydarzone gÄ™by patrzyÅ‚y na mnie z niemym przeraÅ¼eniem. Dwudziestu na jednego? ToÅ¼ to nierÃ³wna walka - opity krwiÄ… byÅ‚em szybszy od kobry i silniejszy od tura. Nie planowaÅ‚em organizowaÄ‡ im masakry - wystarczyÅ‚aby jedynie drobna nauczka, parÄ™ rozwalonych domÃ³w, parÄ™ nowych nagrobkÃ³w na przykaplicznym cmentarzu. W koÅ„cu te biedne ludki zapewniaÅ‚y przychÃ³d na moich ziemiach.
 
-Niestety, nieprzewidzia³em jednego - gdy tydzieñ temu obchodzone by³y œwiêta Szumi¹cych Pól, które wola³em zignorowaæ na dnie kieliszka, kap³an smoka pozwoli³ sobie poœwiêciæ narzêdzia rolne na znak dobrych zbiorów w przysz³oœci. Wiêkszoœæ broni nie ima³a siê mej skóry, co innego wczeœniej poœwiêcona... Mój uœmiech wygi¹³ siê w grymas przera¿enia, gdy poczu³em ostry ból w klatce piersiowej - szybki i krótki.
+Niestety, nieprzewidziaÅ‚em jednego - gdy tydzieÅ„ temu obchodzone byÅ‚y Å›wiÄ™ta SzumiÄ…cych PÃ³l, ktÃ³re wolaÅ‚em zignorowaÄ‡ na dnie kieliszka, kapÅ‚an smoka pozwoliÅ‚ sobie poÅ›wiÄ™ciÄ‡ narzÄ™dzia rolne na znak dobrych zbiorÃ³w w przyszÅ‚oÅ›ci. WiÄ™kszoÅ›Ä‡ broni nie imaÅ‚a siÄ™ mej skÃ³ry, co innego wczeÅ›niej poÅ›wiÄ™cona... MÃ³j uÅ›miech wygiÄ…Å‚ siÄ™ w grymas przeraÅ¼enia, gdy poczuÅ‚em ostry bÃ³l w klatce piersiowej - szybki i krÃ³tki.
 
-Po nim nast¹pi³a jedynie ciemnoœæ i ch³ód.
+Po nim nastÄ…piÅ‚a jedynie ciemnoÅ›Ä‡ i chÅ‚Ã³d.
 
 1.Pobudka
 (stary dialog 1)
-Marvo: Gdzie... gdzie ja jestem? Moja. G³owa. Czujê siê... jakoœ tak pusty w œrodku. Ugh.
-Zakopali mnie gdzieœ? To wygl¹da jak opuszczona kopalnia. Muszê siê z niej wydostaæ.
-2.Wyjœcie z ciemnego tunelu na przestrzeñ z law¹
+Marvo: Gdzie... gdzie ja jestem? Moja. GÅ‚owa. CzujÄ™ siÄ™... jakoÅ› tak pusty w Å›rodku. Ugh.
+Zakopali mnie gdzieÅ›? To wyglÄ…da jak opuszczona kopalnia. MuszÄ™ siÄ™ z niej wydostaÄ‡.
+2.WyjÅ›cie z ciemnego tunelu na przestrzeÅ„ z lawÄ…
 (stary dialog 8)
-Marvo: Gor¹co tutaj, jednak moja skóra nadal jest ch³odna i sucha. Jeszcze chwila i ugotujê siê tu ¿ywcem...
+Marvo: GorÄ…co tutaj, jednak moja skÃ³ra nadal jest chÅ‚odna i sucha. Jeszcze chwila i ugotujÄ™ siÄ™ tu Å¼ywcem...
 3.Starcie z nasnasem
-Marvo: O, nasnas. Natychmiast wyjaœnij mi co tu siê dzieje.
+Marvo: O, nasnas. Natychmiast wyjaÅ›nij mi co tu siÄ™ dzieje.
 Nasnas: Wriaa!!! Hmwrrr...
 Marvo: Dziki nasnas? Ciekawe...
-4.Pierwsze wejœcie na dowolny punkt obserwacyjny
-Marvo: Muszê przyznaæ, ¿e okolica wygl¹da imponuj¹co, a zarazem wzbudza we mnie silny niepokój.
-5.Wejœcie na most prowadz¹cy na wyspê nasnasów
-Stra¿nik wyspy nasnasów: Hej, ty tam. Widzia³eœ nasnasa, niewolniku?
-Marvo: Widzia³em wiele nasnasów, a za tob¹ widzê jeszcze wiêcej. A tak poza tym to nie jestem niewolnikiem.
-Stra¿nik wyspy nasnasów: NajwyraŸniej jednak jesteœ. IdŸ dalej, nic tu po tobie.
-Marvo: Co za impertynencja! Gdybym mia³ swój miecz, to ju¿ by ciê tu nie by³o.
-Stra¿nik wyspy nasnasów: ...
-Marvo: Ba³wan.
-6.Wejœcie na punkt obserwacyjny powy¿ej wyspy nasnasów
-Marvo: O, mostek. Ciekawe jak tam dojœæ i dok¹d prowadzi.
-7.Starcie z pierwszym diablêciem
+4.Pierwsze wejÅ›cie na dowolny punkt obserwacyjny
+Marvo: MuszÄ™ przyznaÄ‡, Å¼e okolica wyglÄ…da imponujÄ…co, a zarazem wzbudza we mnie silny niepokÃ³j.
+5.WejÅ›cie na most prowadzÄ…cy na wyspÄ™ nasnasÃ³w
+StraÅ¼nik wyspy nasnasÃ³w: Hej, ty tam. WidziaÅ‚eÅ› nasnasa, niewolniku?
+Marvo: WidziaÅ‚em wiele nasnasÃ³w, a za tobÄ… widzÄ™ jeszcze wiÄ™cej. A tak poza tym to nie jestem niewolnikiem.
+StraÅ¼nik wyspy nasnasÃ³w: NajwyraÅºniej jednak jesteÅ›. IdÅº dalej, nic tu po tobie.
+Marvo: Co za impertynencja! Gdybym miaÅ‚ swÃ³j miecz, to juÅ¼ by ciÄ™ tu nie byÅ‚o.
+StraÅ¼nik wyspy nasnasÃ³w: ...
+Marvo: BaÅ‚wan.
+6.WejÅ›cie na punkt obserwacyjny powyÅ¼ej wyspy nasnasÃ³w
+Marvo: O, mostek. Ciekawe jak tam dojÅ›Ä‡ i dokÄ…d prowadzi.
+7.Starcie z pierwszym diablÄ™ciem
 (stary dialog 4)
-Marvo //ALT: Cz³owiek nie powinien mieæ tylu oczu! Ani ust, ani.. bleh, nie skomentujê tego.
-8.Spotkanie bezrêkiego
+Marvo //ALT: CzÅ‚owiek nie powinien mieÄ‡ tylu oczu! Ani ust, ani.. bleh, nie skomentujÄ™ tego.
+8.Spotkanie bezrÄ™kiego
 (stary dialog 6)
-Marvo //ALT: Ty! Nie! OdejdŸ ode mnie! Won!
-Bezrêki: Hmmm... zbieg³y niewolnik? A co ty robisz tak daleko od manufaktury? Bêdê to musia³ zg³osiæ...
-Marvo //ALT: Nie jestem niczyim niewolnikiem! Zaraz... czy zosta³em sprzedany?! Gdzie ja jestem?!!
-Bezrêki: Och. Rozumiem. Z pewnoœci¹ czujesz siê teraz mocno sko³owany. Ale powinieneœ siê tego spodziewaæ. Wszystko by³o przecie¿ zawarte w cyrografie
+Marvo //ALT: Ty! Nie! OdejdÅº ode mnie! Won!
+BezrÄ™ki: Hmmm... zbiegÅ‚y niewolnik? A co ty robisz tak daleko od manufaktury? BÄ™dÄ™ to musiaÅ‚ zgÅ‚osiÄ‡...
+Marvo //ALT: Nie jestem niczyim niewolnikiem! Zaraz... czy zostaÅ‚em sprzedany?! Gdzie ja jestem?!!
+BezrÄ™ki: Och. Rozumiem. Z pewnoÅ›ciÄ… czujesz siÄ™ teraz mocno skoÅ‚owany. Ale powinieneÅ› siÄ™ tego spodziewaÄ‡. Wszystko byÅ‚o przecieÅ¼ zawarte w cyrografie
 Marvo:...
 Marvo: Czy ja jestem w Piekle?
-Bezrêki: Prawid³owa nazwa tego miejsca to Arrainot, Ziemie Zgryzoty, ale "Piek³o" jest ³atwiejsze do zapamiêtania. Tak, umar³eœ, i teraz w ramach zawartej umowy twoja pow³oka do³¹czy³a do nas tu, na dole.
-Marvo: Nienienienienie. To siê NIE DZIEJE. Ja nie mogê siedzieæ tu na dole z potworami. To mi siê œni. Zaraz... zaraz siê ob-budzê i wszystko bêdzie w najlepszym porz¹dku.
-Bezrêki: Nazywasz nas poworami choæ sam nie wygl¹dasz lepiej. To nieuprzejme.
-Marvo //ALT: Co siê... Moja twarz! Ochydstwo! Wygl¹dam jak koszmar senny!
-Bezrêki: Uspokój siê i s³uchaj - wyprowadzê ciê st¹d do najbli¿szego miasta, te tunele nie nale¿¹ do bezpiecznych. A potem... potem zobaczymy.
-9.Wejœcie na most do pól diabl¹t
-Marvo: O, diablêta. Ca³kiem sporo ich tu. Ach ta ich tendencja do przybierania dziwnych kszta³tów, nigdy nie przestanie mnie zadziwiaæ w co potrafi¹ siê zamieniæ.
-Bezrêki: Tylko nie zbli¿aj siê do stra¿ników, l¹dowanie w lawie mo¿e byæ dosyæ nieprzyjemne.
-10.Osuniêcie siê ziemii
+BezrÄ™ki: PrawidÅ‚owa nazwa tego miejsca to Arrainot, Ziemie Zgryzoty, ale "PiekÅ‚o" jest Å‚atwiejsze do zapamiÄ™tania. Tak, umarÅ‚eÅ›, i teraz w ramach zawartej umowy twoja powÅ‚oka doÅ‚Ä…czyÅ‚a do nas tu, na dole.
+Marvo: Nienienienienie. To siÄ™ NIE DZIEJE. Ja nie mogÄ™ siedzieÄ‡ tu na dole z potworami. To mi siÄ™ Å›ni. Zaraz... zaraz siÄ™ ob-budzÄ™ i wszystko bÄ™dzie w najlepszym porzÄ…dku.
+BezrÄ™ki: Nazywasz nas poworami choÄ‡ sam nie wyglÄ…dasz lepiej. To nieuprzejme.
+Marvo //ALT: Co siÄ™... Moja twarz! Ochydstwo! WyglÄ…dam jak koszmar senny!
+BezrÄ™ki: UspokÃ³j siÄ™ i sÅ‚uchaj - wyprowadzÄ™ ciÄ™ stÄ…d do najbliÅ¼szego miasta, te tunele nie naleÅ¼Ä… do bezpiecznych. A potem... potem zobaczymy.
+9.WejÅ›cie na most do pÃ³l diablÄ…t
+Marvo: O, diablÄ™ta. CaÅ‚kiem sporo ich tu. Ach ta ich tendencja do przybierania dziwnych ksztaÅ‚tÃ³w, nigdy nie przestanie mnie zadziwiaÄ‡ w co potrafiÄ… siÄ™ zamieniÄ‡.
+BezrÄ™ki: Tylko nie zbliÅ¼aj siÄ™ do straÅ¼nikÃ³w, lÄ…dowanie w lawie moÅ¼e byÄ‡ dosyÄ‡ nieprzyjemne.
+10.OsuniÄ™cie siÄ™ ziemii
 Marvo //ALT: AAAA!!!
-Marvo: Czy ty to widzia³eœ?
-(a - gdy bezrêki jest przed rozpadlin¹)
-Bezrêki: To siê zdarza, zg³oszê komu trzeba i ktoœ to naprawi lub przekopie nowy tunel. Na razie pójdziemy na oko³o, a na przysz³oœæ uwa¿aj gdzie st¹pasz
-(b - gdy bezrêki jest za rozpadlin¹)
-Bezrêki: To siê zdarza, zg³oszê komu trzeba i ktoœ to naprawi lub przekopie nowy tunel. Na razie pójdŸ na oko³o, a na przysz³oœæ uwa¿aj gdzie st¹pasz
-11.Kolejne starcie z diablêciem (obok stoi nasnas)
-Marvo: Wygl¹dacie zupe³nie jak tamte wioskowe dziewczyny... Odra¿aj¹ce. Czy w tym piekielnym œwiecie nie ma ¿adnych piêknych kobiet!?
-Bezrêki: Masz wymagania...
-Nasnas: Uaaa! Wiaæ!
+Marvo: Czy ty to widziaÅ‚eÅ›?
+(a - gdy bezrÄ™ki jest przed rozpadlinÄ…)
+BezrÄ™ki: To siÄ™ zdarza, zgÅ‚oszÄ™ komu trzeba i ktoÅ› to naprawi lub przekopie nowy tunel. Na razie pÃ³jdziemy na okoÅ‚o, a na przyszÅ‚oÅ›Ä‡ uwaÅ¼aj gdzie stÄ…pasz
+(b - gdy bezrÄ™ki jest za rozpadlinÄ…)
+BezrÄ™ki: To siÄ™ zdarza, zgÅ‚oszÄ™ komu trzeba i ktoÅ› to naprawi lub przekopie nowy tunel. Na razie pÃ³jdÅº na okoÅ‚o, a na przyszÅ‚oÅ›Ä‡ uwaÅ¼aj gdzie stÄ…pasz
+11.Kolejne starcie z diablÄ™ciem (obok stoi nasnas)
+Marvo: WyglÄ…dacie zupeÅ‚nie jak tamte wioskowe dziewczyny... OdraÅ¼ajÄ…ce. Czy w tym piekielnym Å›wiecie nie ma Å¼adnych piÄ™knych kobiet!?
+BezrÄ™ki: Masz wymagania...
+Nasnas: Uaaa! WiaÄ‡!
 (nasnas ucieka)
-12.Wejœcie na most do gniazd chochlików lub przynajmniej w t¹ okolicê
-(dwa chochliki przelatuj¹ od gniazd do terenów gdzieœ na wschód
-Stra¿nik gniazd 1: I widzisz co narobi³eœ? Dorwa³eœ tego nasnasa, za to chochliki zwia³y. Zadowolony z siebie?
-Stra¿nik gniazd 2: To czemu ich nie dopilnowa³eœ? Po to jest tu nas trzech ¿ebyœmy wszyscy pilnowali.
-Stra¿nik gniazd 1: A bo to ja mam za wszystkich pilnowaæ?
-Stra¿nik gniazd 3: Co jest?
-Stra¿nik gniazd 1: Dhre'val wypuœci³ chochliki.
-Stra¿nik gniazd 2: Nie wypuœci³em chochlików! To Seghr'ghral pozwoli³ im uciec.
-Stra¿nik gniazd 3: Mordy, barany! Kaza³bym wam teraz obu goniæ za tymi chochlikami, ale sam nie bêdê tu sta³ i pilnowa³. Macie tu staæ i pilnowaæ. Pilnowaæ, ¿eby chochliki nie ucieka³y. To naprawdê nie jest skomplikowane zadanie. Ile razy trzeba bêdzie to jeszcze t³umaczyæ?
+12.WejÅ›cie na most do gniazd chochlikÃ³w lub przynajmniej w tÄ… okolicÄ™
+(dwa chochliki przelatujÄ… od gniazd do terenÃ³w gdzieÅ› na wschÃ³d
+StraÅ¼nik gniazd 1: I widzisz co narobiÅ‚eÅ›? DorwaÅ‚eÅ› tego nasnasa, za to chochliki zwiaÅ‚y. Zadowolony z siebie?
+StraÅ¼nik gniazd 2: To czemu ich nie dopilnowaÅ‚eÅ›? Po to jest tu nas trzech Å¼ebyÅ›my wszyscy pilnowali.
+StraÅ¼nik gniazd 1: A bo to ja mam za wszystkich pilnowaÄ‡?
+StraÅ¼nik gniazd 3: Co jest?
+StraÅ¼nik gniazd 1: Dhre'val wypuÅ›ciÅ‚ chochliki.
+StraÅ¼nik gniazd 2: Nie wypuÅ›ciÅ‚em chochlikÃ³w! To Seghr'ghral pozwoliÅ‚ im uciec.
+StraÅ¼nik gniazd 3: Mordy, barany! KazaÅ‚bym wam teraz obu goniÄ‡ za tymi chochlikami, ale sam nie bÄ™dÄ™ tu staÅ‚ i pilnowaÅ‚. Macie tu staÄ‡ i pilnowaÄ‡. PilnowaÄ‡, Å¼eby chochliki nie uciekaÅ‚y. To naprawdÄ™ nie jest skomplikowane zadanie. Ile razy trzeba bÄ™dzie to jeszcze tÅ‚umaczyÄ‡?
 Marvo: Oho, awantura.
-Bezrêki: Lepiej siê nie wtr¹caj, bo inaczej wrobi¹ ciê w wypuszczenie tych chochlików. Gonienie za nimi to najlepsze, co mog³oby ciê po takim oskar¿eniu spotkaæ.
-13a.Starcie z chochlikiem je¿eli Marvo szed³ pierwszy
+BezrÄ™ki: Lepiej siÄ™ nie wtrÄ…caj, bo inaczej wrobiÄ… ciÄ™ w wypuszczenie tych chochlikÃ³w. Gonienie za nimi to najlepsze, co mogÅ‚oby ciÄ™ po takim oskarÅ¼eniu spotkaÄ‡.
+13a.Starcie z chochlikiem jeÅ¼eli Marvo szedÅ‚ pierwszy
 (na bazie dialogu 2)
 (chochlik nadlatuje od strony lawy i atakuje Marvo)
-Marvo //ALT: Ugh! Co to... Co to jest! Won ode mnie! £apy precz!
-Bezrêki: Taki wynios³y a chochlika nie widzia³?
-13b.Starcie z chochlikiem je¿eli Bezrêki szed³ pierwszy
-(chochlik nadlatuje od strony lawy i atakuje Bezrêkiego)
-Bezrêki: No proszê, szybko siê znalaz³.
-14.Wejœcie na teren rozwidlenia
-Bezrêki: Ju¿ prawie jesteœmy...
-(wchodzi na pole zamku przy lawie stoj¹cej na drodze)
-(na lawie pojawia siê mostek, po drugiej stronie pojawia siê chochlik, mostek znika, chochlik te¿)
-Bezrêki:...
-Bezrêki //ALT: Co?!
-(na lawie pojawia siê mostek, po drugiej stronie pojawia siê chochlik, mostek znika, chwila przerwy i druga próba, która te¿ nic nie daje)
-Bezrêki //ALT: Ma³a wredna lataj¹ca kreatura! Siedzi i nic tylko zamyka! Ju¿ ja dopilnujê, ¿eby nic z niego nie pozosta³o! IdŸ rozejrzyj siê za stra¿nikami.
----Tutaj historia mo¿e potoczyæ siê na dwa sposoby, w zale¿noœci od tego, czy Marvo pójdzie w górê czy w dó³. Bezrêki nie mo¿e siê ruszaæ z zamku i co turê próbuje zamkn¹æ mostek.
-15.Bezrêki bezskutecznie próbuje zamkn¹æ mostek
-Bezrêki //ALT: Lataj¹ce œcierwo. Dopadnê ciê!
-16a.Wejœcie na górny punkt obserwacyjny, gdy poszliœmy najpierw w górê
-Marvo: Ta rzeka lawy zdaje siê ci¹gn¹æ w nieskoñczonoœæ... Niesamowite, fantastyczne, wspania³e! O, jakiœ ³uk. Wezmê go sobie.
+Marvo //ALT: Ugh! Co to... Co to jest! Won ode mnie! Åapy precz!
+BezrÄ™ki: Taki wyniosÅ‚y a chochlika nie widziaÅ‚?
+13b.Starcie z chochlikiem jeÅ¼eli BezrÄ™ki szedÅ‚ pierwszy
+(chochlik nadlatuje od strony lawy i atakuje BezrÄ™kiego)
+BezrÄ™ki: No proszÄ™, szybko siÄ™ znalazÅ‚.
+14.WejÅ›cie na teren rozwidlenia
+BezrÄ™ki: JuÅ¼ prawie jesteÅ›my...
+(wchodzi na pole zamku przy lawie stojÄ…cej na drodze)
+(na lawie pojawia siÄ™ mostek, po drugiej stronie pojawia siÄ™ chochlik, mostek znika, chochlik teÅ¼)
+BezrÄ™ki:...
+BezrÄ™ki //ALT: Co?!
+(na lawie pojawia siÄ™ mostek, po drugiej stronie pojawia siÄ™ chochlik, mostek znika, chwila przerwy i druga prÃ³ba, ktÃ³ra teÅ¼ nic nie daje)
+BezrÄ™ki //ALT: MaÅ‚a wredna latajÄ…ca kreatura! Siedzi i nic tylko zamyka! JuÅ¼ ja dopilnujÄ™, Å¼eby nic z niego nie pozostaÅ‚o! IdÅº rozejrzyj siÄ™ za straÅ¼nikami.
+---Tutaj historia moÅ¼e potoczyÄ‡ siÄ™ na dwa sposoby, w zaleÅ¼noÅ›ci od tego, czy Marvo pÃ³jdzie w gÃ³rÄ™ czy w dÃ³Å‚. BezrÄ™ki nie moÅ¼e siÄ™ ruszaÄ‡ z zamku i co turÄ™ prÃ³buje zamknÄ…Ä‡ mostek.
+15.BezrÄ™ki bezskutecznie prÃ³buje zamknÄ…Ä‡ mostek
+BezrÄ™ki //ALT: LatajÄ…ce Å›cierwo. DopadnÄ™ ciÄ™!
+16a.WejÅ›cie na gÃ³rny punkt obserwacyjny, gdy poszliÅ›my najpierw w gÃ³rÄ™
+Marvo: Ta rzeka lawy zdaje siÄ™ ciÄ…gnÄ…Ä‡ w nieskoÅ„czonoÅ›Ä‡... Niesamowite, fantastyczne, wspaniaÅ‚e! O, jakiÅ› Å‚uk. WezmÄ™ go sobie.
 16b.
-Marvo: Ta rzeka lawy zdaje siê ci¹gn¹æ w nieskoñczonoœæ... Niesamowite, fantastyczne, wspania³e! O, jest jakiœ ³uk. Gdybym znalaz³ do niego strza³y móg³bym zrobiæ coœ z tym chochlikiem.
-17a.Wejœcie na most do jaskini impów (jeden z tych blisko stra¿ników)
-Marvo: Jakiœ chochlik blokuje przejœcie zamykaj¹c mostek.
-Stra¿nik jaskini 1: Skoro twój pan nie mo¿e przejœæ, to czemu sam mu nie pomo¿esz? IdŸ ubij tego chochlika czy coœ. Nie mam wyposa¿enia do takiej roboty.
-Marvo: Mam tu jakiœ ³uk, ale nie mam strza³.
-Stra¿nik jaskini 2: O, to ³uk Erg'echa. Ale siê zdziwi. Mo¿e by mu tak go zepsuæ? A tak w³aœciwie po co mu ³uk?
-Stra¿nik jaskini 1: W sumie nie wiem. Chyba wzi¹³ jako ³up z powierzchni. Strzela³eœ kiedyœ z ³uku?
-Stra¿nik jaskini 2: Nie, nigdy. ChodŸmy sprawdziæ na tym chochliku.
-Stra¿nik jaskini 1: Nie, nie, nie. Ja idê sprawdziæ, a ty tu stoisz i pilnujesz.
-Stra¿nik jaskini 2: Grhmfp.
-(stra¿nik jaskini 1 podchodzi do bezrêkiego)
-Bezrêki //ALT: No, nareszcie! Ustrzel tego chochlika, stra¿niku! Tu s¹ jakieœ strza³y.
-(chochlik ginie po trzecim strzale, bezrêki zamyka mostek, stra¿nik wraca na posterunek)
-Bezrêki: No, nareszcie.
-Marvo: No i zabra³ sobie ³uk. Ech...
+Marvo: Ta rzeka lawy zdaje siÄ™ ciÄ…gnÄ…Ä‡ w nieskoÅ„czonoÅ›Ä‡... Niesamowite, fantastyczne, wspaniaÅ‚e! O, jest jakiÅ› Å‚uk. Gdybym znalazÅ‚ do niego strzaÅ‚y mÃ³gÅ‚bym zrobiÄ‡ coÅ› z tym chochlikiem.
+17a.WejÅ›cie na most do jaskini impÃ³w (jeden z tych blisko straÅ¼nikÃ³w)
+Marvo: JakiÅ› chochlik blokuje przejÅ›cie zamykajÄ…c mostek.
+StraÅ¼nik jaskini 1: Skoro twÃ³j pan nie moÅ¼e przejÅ›Ä‡, to czemu sam mu nie pomoÅ¼esz? IdÅº ubij tego chochlika czy coÅ›. Nie mam wyposaÅ¼enia do takiej roboty.
+Marvo: Mam tu jakiÅ› Å‚uk, ale nie mam strzaÅ‚.
+StraÅ¼nik jaskini 2: O, to Å‚uk Erg'echa. Ale siÄ™ zdziwi. MoÅ¼e by mu tak go zepsuÄ‡? A tak wÅ‚aÅ›ciwie po co mu Å‚uk?
+StraÅ¼nik jaskini 1: W sumie nie wiem. Chyba wziÄ…Å‚ jako Å‚up z powierzchni. StrzelaÅ‚eÅ› kiedyÅ› z Å‚uku?
+StraÅ¼nik jaskini 2: Nie, nigdy. ChodÅºmy sprawdziÄ‡ na tym chochliku.
+StraÅ¼nik jaskini 1: Nie, nie, nie. Ja idÄ™ sprawdziÄ‡, a ty tu stoisz i pilnujesz.
+StraÅ¼nik jaskini 2: Grhmfp.
+(straÅ¼nik jaskini 1 podchodzi do bezrÄ™kiego)
+BezrÄ™ki //ALT: No, nareszcie! Ustrzel tego chochlika, straÅ¼niku! Tu sÄ… jakieÅ› strzaÅ‚y.
+(chochlik ginie po trzecim strzale, bezrÄ™ki zamyka mostek, straÅ¼nik wraca na posterunek)
+BezrÄ™ki: No, nareszcie.
+Marvo: No i zabraÅ‚ sobie Å‚uk. Ech...
 17b.
-Marvo: Jakiœ chochlik blokuje przejœcie zamykaj¹c mostek.
-Stra¿nik jaskini 1: Skoro twój pan nie mo¿e przejœæ, to czemu sam mu nie pomo¿esz? Ja nie mam wyposa¿enia do takiej roboty. Potrzebowa³bym czegoœ, ¿eby go ustrzeliæ. IdŸ siê sam tym zajmij, niewolniku.
-Marvo: Nie jestem... A, zreszt¹.
-18a.Powrót na rozwidlenie po dialogu 16a
-Bezrêki //ALT: Gdzie siê wa³êsasz?! Tam ¿adnych stra¿ników nie ma, s¹ w drug¹ stronê.
-Marvo: Sam byœ sobie po nich poszed³.
-Bezrêki //ALT: ID, TÊPAKU!
+Marvo: JakiÅ› chochlik blokuje przejÅ›cie zamykajÄ…c mostek.
+StraÅ¼nik jaskini 1: Skoro twÃ³j pan nie moÅ¼e przejÅ›Ä‡, to czemu sam mu nie pomoÅ¼esz? Ja nie mam wyposaÅ¼enia do takiej roboty. PotrzebowaÅ‚bym czegoÅ›, Å¼eby go ustrzeliÄ‡. IdÅº siÄ™ sam tym zajmij, niewolniku.
+Marvo: Nie jestem... A, zresztÄ….
+18a.PowrÃ³t na rozwidlenie po dialogu 16a
+BezrÄ™ki //ALT: Gdzie siÄ™ waÅ‚Ä™sasz?! Tam Å¼adnych straÅ¼nikÃ³w nie ma, sÄ… w drugÄ… stronÄ™.
+Marvo: Sam byÅ› sobie po nich poszedÅ‚.
+BezrÄ™ki //ALT: IDÅ¹, TÄ˜PAKU!
 Marvo: Dobra, dobra.
-18b.Powrót na rozwidlenie po dialogach 17b i 16b
-(stra¿nik jaskini 1 podchodzi bli¿ej)
-Stra¿nik jaskini 1: W sumie, to powinienem siê tym zaj¹æ. O, widzê, ¿e masz ³uk Erg'echa.
-Bezrêki: Szybciej tam, chcê mieæ g³owê tego chochlika! Tu le¿¹ jakieœ strza³y.
-(chochlik ginie po trzecim strzale, bezrêki zamyka mostek, stra¿nik wraca na posterunek)
-Bezrêki: No, nareszcie.
-Marvo: No i zabra³ sobie ³uk. Ech...
-19. Wejœcie do przedsionka
-Stra¿nik przejœcia 1: A ty gdzie niewolniku?
-Bezrêki: Idzie do œrodka w³aœnie.
-Stra¿nik przejœcia 1: Dzisiaj jest wa¿ne wydarzenie. Niewolnicy nie mog¹ siê wa³êsaæ po mieœcie.
-Bezrêki: Co jest dzisiaj, jakaœ banda kretynów? A zreszt¹, co ja siê bêdê przejmowa³. RadŸ sobie sam, jesteœmy ju¿ na terenie pilnowanym, tu¿ przy wejœciu do miasta.
-(bezrêki wchodzi do œrodka i znika)
-Marvo: Nie no, po prostu œwietnie.
-20. Wejœcie na tory ogarów
-Stra¿nik toru 3: Hej! Niewolnik! Nie têdy droga.
-Marvo: Ale tamtêdy nie daj¹ mi przejœæ.
-Stra¿nik toru 3: Co jest, wystawili dzisiaj samych idiotów na stra¿ach? HEJ, WY TAM! MACIE GO PRZEPUŒCIÆ! I 'POROZMAWIAMY' JESZCZE NA TEN TEMAT! A ty co tu jeszcze stoisz? To nie miejsce dla niewolników.
-21. Wejœcie do œrodka (na bazie dialogu ?11)
-Bezrêki: O, widzê, ¿e mnie dogoni³eœ. Przed nami znajduje siê miasto - Irxerivethg. W Arrainot nigdzie nie bywa bezpiecznie, ale przynajmniej znaleŸæ tam mo¿na chwilê wytchnienia.
-Marvo: Iks... Irkse... Niewa¿ne. Co robi³eœ w tych tunelach?
-Bezrêki: Wraca³em od znajomego, w³aœciciela plantacji zgni³odrzewia. Zazwyczaj w tych korytarzach jest znacznie spokojniej. Ty zaœ, bezwolny...
-Marvo: ...Nazywam siê Marvo.
-Bezrêki: Tutaj Bezwolni podobni tobie musz¹ zas³u¿yæ sobie na imiê. Pewnie dostaniesz ksywkê lub numerek, kiedy ju¿ znajd¹ dla ciebie w³aœciciela.
-Marvo: Doprawdy? A ty masz jakieœ imiê?
-Bezrêki: Zabawny z ciebie diablik. Ale¿ oczywiœcie, ¿e mam. Na imiê mi Anuhvarran.
+18b.PowrÃ³t na rozwidlenie po dialogach 17b i 16b
+(straÅ¼nik jaskini 1 podchodzi bliÅ¼ej)
+StraÅ¼nik jaskini 1: W sumie, to powinienem siÄ™ tym zajÄ…Ä‡. O, widzÄ™, Å¼e masz Å‚uk Erg'echa.
+BezrÄ™ki: Szybciej tam, chcÄ™ mieÄ‡ gÅ‚owÄ™ tego chochlika! Tu leÅ¼Ä… jakieÅ› strzaÅ‚y.
+(chochlik ginie po trzecim strzale, bezrÄ™ki zamyka mostek, straÅ¼nik wraca na posterunek)
+BezrÄ™ki: No, nareszcie.
+Marvo: No i zabraÅ‚ sobie Å‚uk. Ech...
+19. WejÅ›cie do przedsionka
+StraÅ¼nik przejÅ›cia 1: A ty gdzie niewolniku?
+BezrÄ™ki: Idzie do Å›rodka wÅ‚aÅ›nie.
+StraÅ¼nik przejÅ›cia 1: Dzisiaj jest waÅ¼ne wydarzenie. Niewolnicy nie mogÄ… siÄ™ waÅ‚Ä™saÄ‡ po mieÅ›cie.
+BezrÄ™ki: Co jest dzisiaj, jakaÅ› banda kretynÃ³w? A zresztÄ…, co ja siÄ™ bÄ™dÄ™ przejmowaÅ‚. RadÅº sobie sam, jesteÅ›my juÅ¼ na terenie pilnowanym, tuÅ¼ przy wejÅ›ciu do miasta.
+(bezrÄ™ki wchodzi do Å›rodka i znika)
+Marvo: Nie no, po prostu Å›wietnie.
+20. WejÅ›cie na tory ogarÃ³w
+StraÅ¼nik toru 3: Hej! Niewolnik! Nie tÄ™dy droga.
+Marvo: Ale tamtÄ™dy nie dajÄ… mi przejÅ›Ä‡.
+StraÅ¼nik toru 3: Co jest, wystawili dzisiaj samych idiotÃ³w na straÅ¼ach? HEJ, WY TAM! MACIE GO PRZEPUÅšCIÄ†! I 'POROZMAWIAMY' JESZCZE NA TEN TEMAT! A ty co tu jeszcze stoisz? To nie miejsce dla niewolnikÃ³w.
+21. WejÅ›cie do Å›rodka (na bazie dialogu ?11)
+BezrÄ™ki: O, widzÄ™, Å¼e mnie dogoniÅ‚eÅ›. Przed nami znajduje siÄ™ miasto - Irxerivethg. W Arrainot nigdzie nie bywa bezpiecznie, ale przynajmniej znaleÅºÄ‡ tam moÅ¼na chwilÄ™ wytchnienia.
+Marvo: Iks... Irkse... NiewaÅ¼ne. Co robiÅ‚eÅ› w tych tunelach?
+BezrÄ™ki: WracaÅ‚em od znajomego, wÅ‚aÅ›ciciela plantacji zgniÅ‚odrzewia. Zazwyczaj w tych korytarzach jest znacznie spokojniej. Ty zaÅ›, bezwolny...
+Marvo: ...Nazywam siÄ™ Marvo.
+BezrÄ™ki: Tutaj Bezwolni podobni tobie muszÄ… zasÅ‚uÅ¼yÄ‡ sobie na imiÄ™. Pewnie dostaniesz ksywkÄ™ lub numerek, kiedy juÅ¼ znajdÄ… dla ciebie wÅ‚aÅ›ciciela.
+Marvo: Doprawdy? A ty masz jakieÅ› imiÄ™?
+BezrÄ™ki: Zabawny z ciebie diablik. AleÅ¼ oczywiÅ›cie, Å¼e mam. Na imiÄ™ mi Anuhvarran.
 Marvo: Amhrv... 
-Marvo:...³adne imiê, tak s¹dzê.
-Bezrêki: Hihihih, naprawdê, naprawdê zabawny. Podobasz mi siê. Jeszcze chwila i rozwa¿ê Twój zakup.
+Marvo:...Å‚adne imiÄ™, tak sÄ…dzÄ™.
+BezrÄ™ki: Hihihih, naprawdÄ™, naprawdÄ™ zabawny. Podobasz mi siÄ™. Jeszcze chwila i rozwaÅ¼Ä™ TwÃ³j zakup.
 Marvo: ...
-Bezrêki: Z t¹ zdêbia³¹ min¹ wygl¹dasz bardziej g³upio ni¿ normalnie, a myœla³em, ¿e to niemo¿liwe. Ruszajmy, musisz zostaæ zarejestrowany w mieœcie ¿eby nie mieæ problemów. I oczywiœcie ¿ebym ja nie mia³ problemów.
+BezrÄ™ki: Z tÄ… zdÄ™biaÅ‚Ä… minÄ… wyglÄ…dasz bardziej gÅ‚upio niÅ¼ normalnie, a myÅ›laÅ‚em, Å¼e to niemoÅ¼liwe. Ruszajmy, musisz zostaÄ‡ zarejestrowany w mieÅ›cie Å¼eby nie mieÄ‡ problemÃ³w. I oczywiÅ›cie Å¼ebym ja nie miaÅ‚ problemÃ³w.
 --- koniec scenariusza
 
-??. Œmieræ Marvo przed spotkaniem bezrêkiego
-Marvo: Ja.. ginê?
-??. -||- po spotkaniu bezrêkiego
-Bezrêki: Najwidoczniej i tak nic by z ciebie nie wysz³o. No nic, tu i tak nie da siê umrzeæ bardziej... do zobaczenia za milion lat, mo¿e krócej...
-??. Œmieræ bezrêkiego
-Marvo: Nie! Nie zostawiaj mnie tu... samego... proszê!
+??. ÅšmierÄ‡ Marvo przed spotkaniem bezrÄ™kiego
+Marvo: Ja.. ginÄ™?
+??. -||- po spotkaniu bezrÄ™kiego
+BezrÄ™ki: Najwidoczniej i tak nic by z ciebie nie wyszÅ‚o. No nic, tu i tak nie da siÄ™ umrzeÄ‡ bardziej... do zobaczenia za milion lat, moÅ¼e krÃ³cej...
+??. ÅšmierÄ‡ bezrÄ™kiego
+Marvo: Nie! Nie zostawiaj mnie tu... samego... proszÄ™!
 
-To nie by³o miasto.
-Widzia³em w ¿yciu wiele miast, bogatych, ubogich, wielkich i ma³ych, szlachetnych i przepe³nionych przestêpczoœci¹. To nie przypomina³o ¿adnego z nich.
-Wszystko w nim zosta³o zrobione bez jakiegokolwiek pomys³u i planu, jakby nakreœlone rêk¹ œlepca. Budynki wydawa³y byæ nieprzyjemnie organiczne, mimo i¿ zbudowane by³y z tej samej wulkanicznej ska³y co wszystko tutaj. Zdawa³y siê oczekiwaæ, œledziæ gzymsami i kru¿gankami ka¿dy mój ruch. Chcia³em przyspieszyæ kroku, jednak nie by³em w stanie kontrolowaæ moich w³asnych nóg. Mo¿e i w jego murach mia³o byæ bezpieczniej, jednak z tego miejsca pragn¹³em uciec jak najszybciej, gdzieœ, gdzie nieba nie przys³ania³y wyziewy setek kominów, gdzie powietrze nie pachnia³o palonym miêsem.
-Skierowa³em kroki do centrum, gdzie zgromadzi³o siê ju¿ kilka strojnie ubranych demonów. Nie wiedzia³em dlaczego, ale czu³em, ¿e powinienem stan¹æ przed podstumentem, na którym siedzia³ nader ochydny stwór z m³otkiem. Szybko moja obecnoœæ tutaj sta³a siê boleœnie jasna.
+To nie byÅ‚o miasto.
+WidziaÅ‚em w Å¼yciu wiele miast, bogatych, ubogich, wielkich i maÅ‚ych, szlachetnych i przepeÅ‚nionych przestÄ™pczoÅ›ciÄ…. To nie przypominaÅ‚o Å¼adnego z nich.
+Wszystko w nim zostaÅ‚o zrobione bez jakiegokolwiek pomysÅ‚u i planu, jakby nakreÅ›lone rÄ™kÄ… Å›lepca. Budynki wydawaÅ‚y byÄ‡ nieprzyjemnie organiczne, mimo iÅ¼ zbudowane byÅ‚y z tej samej wulkanicznej skaÅ‚y co wszystko tutaj. ZdawaÅ‚y siÄ™ oczekiwaÄ‡, Å›ledziÄ‡ gzymsami i kruÅ¼gankami kaÅ¼dy mÃ³j ruch. ChciaÅ‚em przyspieszyÄ‡ kroku, jednak nie byÅ‚em w stanie kontrolowaÄ‡ moich wÅ‚asnych nÃ³g. MoÅ¼e i w jego murach miaÅ‚o byÄ‡ bezpieczniej, jednak z tego miejsca pragnÄ…Å‚em uciec jak najszybciej, gdzieÅ›, gdzie nieba nie przysÅ‚aniaÅ‚y wyziewy setek kominÃ³w, gdzie powietrze nie pachniaÅ‚o palonym miÄ™sem.
+SkierowaÅ‚em kroki do centrum, gdzie zgromadziÅ‚o siÄ™ juÅ¼ kilka strojnie ubranych demonÃ³w. Nie wiedziaÅ‚em dlaczego, ale czuÅ‚em, Å¼e powinienem stanÄ…Ä‡ przed podstumentem, na ktÃ³rym siedziaÅ‚ nader ochydny stwÃ³r z mÅ‚otkiem. Szybko moja obecnoÅ›Ä‡ tutaj staÅ‚a siÄ™ boleÅ›nie jasna.
 
-D: Cisza! Cisza cisza cisza! Zaczynamy aukcjê numer 85 obecnego tu Bezwolego. Odwróæ siê ch³opcze, jeœli ³aska i przestañ siê tak garbiæ. Dobre wra¿enie to podstawa!
+D: Cisza! Cisza cisza cisza! Zaczynamy aukcjÄ™ numer 85 obecnego tu Bezwolego. OdwrÃ³Ä‡ siÄ™ chÅ‚opcze, jeÅ›li Å‚aska i przestaÅ„ siÄ™ tak garbiÄ‡. Dobre wraÅ¼enie to podstawa!
 M: Ja... ale...
-Nogi wbrew mej woli odwróci³y siê w stronê demonów.
-D: Obecny tu m³ody okaz, raptem 80 lat powierzchniowych, 189 cm wzrostu, 71 kilo. Zdrowe, bia³e k³y... Uœmiechnij siê! I przestañ siê garbiæ! Chyba jesteœ coœ wart?!
-M: Eeee... tak jest... proszê... pana
-D: Wystarczaj¹cy poziom mocy, silny odpowiednio... no ju¿, poka¿ rêkê. Widz¹ pañstwo, ¿e to nie s³abeusz - nadaje siê do ciê¿szych prac. Ponadto mamy tu doczynienia z arystokrat¹. ... Mar...vo Kanaiii (?) Durne powierzchniowe imiona, doczytaæ siê nie da. 
-(JAKIŒ DEMON 1): To ¿aden plus, co drugi tutaj by³ arystokrat¹. A ten ostatni by³ wybrakowany - zamiast pracowaæ tylko wrzeszcza³ i kry³ siê po k¹tach. Psychiczny jakiœ
-D: Nie ma choroby psychicznej, której nie da³oby siê wyleczyæ za pomoc¹ pa³ki i bicza. A teraz, jeœli pozwol¹ Pañstwo, przystêpujemy do licytacji.
-(JAKIŒ DEMON 2): Zaraz! Czy to Marvo Kanarion? TEN Marvo Kanarion?
-M: Tak! Dziêkujê! Ja im mówi³em ¿e to...
-(JD2):...Pan "porozmawiamy sobie kiedy indziej?", pan "móg³bym prosiæ o kolejn¹ po¿yczkê"? Pan "nie jestem w nastroju na podobne zajêcia, odezwijcie siê jutro"???
+Nogi wbrew mej woli odwrÃ³ciÅ‚y siÄ™ w stronÄ™ demonÃ³w.
+D: Obecny tu mÅ‚ody okaz, raptem 80 lat powierzchniowych, 189 cm wzrostu, 71 kilo. Zdrowe, biaÅ‚e kÅ‚y... UÅ›miechnij siÄ™! I przestaÅ„ siÄ™ garbiÄ‡! Chyba jesteÅ› coÅ› wart?!
+M: Eeee... tak jest... proszÄ™... pana
+D: WystarczajÄ…cy poziom mocy, silny odpowiednio... no juÅ¼, pokaÅ¼ rÄ™kÄ™. WidzÄ… paÅ„stwo, Å¼e to nie sÅ‚abeusz - nadaje siÄ™ do ciÄ™Å¼szych prac. Ponadto mamy tu doczynienia z arystokratÄ…. ... Mar...vo Kanaiii (?) Durne powierzchniowe imiona, doczytaÄ‡ siÄ™ nie da. 
+(JAKIÅš DEMON 1): To Å¼aden plus, co drugi tutaj byÅ‚ arystokratÄ…. A ten ostatni byÅ‚ wybrakowany - zamiast pracowaÄ‡ tylko wrzeszczaÅ‚ i kryÅ‚ siÄ™ po kÄ…tach. Psychiczny jakiÅ›
+D: Nie ma choroby psychicznej, ktÃ³rej nie daÅ‚oby siÄ™ wyleczyÄ‡ za pomocÄ… paÅ‚ki i bicza. A teraz, jeÅ›li pozwolÄ… PaÅ„stwo, przystÄ™pujemy do licytacji.
+(JAKIÅš DEMON 2): Zaraz! Czy to Marvo Kanarion? TEN Marvo Kanarion?
+M: Tak! DziÄ™kujÄ™! Ja im mÃ³wiÅ‚em Å¼e to...
+(JD2):...Pan "porozmawiamy sobie kiedy indziej?", pan "mÃ³gÅ‚bym prosiÄ‡ o kolejnÄ… poÅ¼yczkÄ™"? Pan "nie jestem w nastroju na podobne zajÄ™cia, odezwijcie siÄ™ jutro"???
 M//ALT: ...Przepraszam?
-(JD2) Oj, ch³opcze, stawiam na ciebie pó³tora garnca smo³y ju¿ od razu. Z chêci¹ zobaczê, jak wyt³umaczysz siê swoim prze³o¿onym, zanim po³o¿ymy ciê na Madejowe £o¿e i wbijemy drzazgi pod paznokcie...
-M: Czekajcie! Ja chcia³em siê tylko...!
-(JD1): Dwa garnce smo³y!
-(JD2): Dwa i pó³ garnca!
-D: Dwa i pó³ garnca po raz pierwszy, dwa i pó³ garnca...
-(JD1): Trzy garnce smo³y i rubin!
-M: Czy ktoœ zechce mnie wys³uchaæ?! TO POMY£KA! PROSZÊ!!
-(JD2):Piêæ garnców smo³y!
-D: Piêc po raz pierwszy, piêæ po raz drugi, piêæ po ra...
-(JD3): Szeœæ garnców i tyle samo uncji z³ota!
-D: Po raz pierwszy, drugi, trzeci, sprzedane wielmo¿nemu genera³owi Huraxavirthovi!
-(JD2): Niech to wszyscy œwiêci wezm¹!!!
-M: ...Dziêki smokom!
-Huraxavirth: No choæ. Idziesz ze mn¹, Bezwolny. Otrzyma³eœ rekomendacjê od mojego starego przyjaciela. Mam nadziejê, ¿e jesteœ tyle wart na ile mnie zapewni³. Powinieneœ siê cieszyæ, tamten demon zapewne by ciê zjad³, za to ja zapewniê ci perspektywy na przysz³oœæ. Tylko ruszaj siê szybciej!
-M: Bezrêki... To musia³ byæ on. Dobrze ¿e w tym miejscu znalaz³em jakiegoœ sojusznika... przynajmniej na razie.
+(JD2) Oj, chÅ‚opcze, stawiam na ciebie pÃ³Å‚tora garnca smoÅ‚y juÅ¼ od razu. Z chÄ™ciÄ… zobaczÄ™, jak wytÅ‚umaczysz siÄ™ swoim przeÅ‚oÅ¼onym, zanim poÅ‚oÅ¼ymy ciÄ™ na Madejowe ÅoÅ¼e i wbijemy drzazgi pod paznokcie...
+M: Czekajcie! Ja chciaÅ‚em siÄ™ tylko...!
+(JD1): Dwa garnce smoÅ‚y!
+(JD2): Dwa i pÃ³Å‚ garnca!
+D: Dwa i pÃ³Å‚ garnca po raz pierwszy, dwa i pÃ³Å‚ garnca...
+(JD1): Trzy garnce smoÅ‚y i rubin!
+M: Czy ktoÅ› zechce mnie wysÅ‚uchaÄ‡?! TO POMYÅKA! PROSZÄ˜!!
+(JD2):PiÄ™Ä‡ garncÃ³w smoÅ‚y!
+D: PiÄ™c po raz pierwszy, piÄ™Ä‡ po raz drugi, piÄ™Ä‡ po ra...
+(JD3): SzeÅ›Ä‡ garncÃ³w i tyle samo uncji zÅ‚ota!
+D: Po raz pierwszy, drugi, trzeci, sprzedane wielmoÅ¼nemu generaÅ‚owi Huraxavirthovi!
+(JD2): Niech to wszyscy Å›wiÄ™ci wezmÄ…!!!
+M: ...DziÄ™ki smokom!
+Huraxavirth: No choÄ‡. Idziesz ze mnÄ…, Bezwolny. OtrzymaÅ‚eÅ› rekomendacjÄ™ od mojego starego przyjaciela. Mam nadziejÄ™, Å¼e jesteÅ› tyle wart na ile mnie zapewniÅ‚. PowinieneÅ› siÄ™ cieszyÄ‡, tamten demon zapewne by ciÄ™ zjadÅ‚, za to ja zapewniÄ™ ci perspektywy na przyszÅ‚oÅ›Ä‡. Tylko ruszaj siÄ™ szybciej!
+M: BezrÄ™ki... To musiaÅ‚ byÄ‡ on. Dobrze Å¼e w tym miejscu znalazÅ‚em jakiegoÅ› sojusznika... przynajmniej na razie.
