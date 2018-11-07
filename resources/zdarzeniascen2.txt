@@ -1,6 +1,6 @@
 ﻿Wiedziałem, że zatryjumfuję. Ich brudne, niewydarzone gęby patrzyły na mnie z niemym przerażeniem. Dwudziestu na jednego? Toż to nierówna walka - opity krwią byłem szybszy od kobry i silniejszy od tura. Nie planowałem organizować im masakry - wystarczyłaby jedynie drobna nauczka, parę rozwalonych domów, parę nowych nagrobków na przykaplicznym cmentarzu. W końcu te biedne ludki zapewniały przychód na moich ziemiach.
 
-Niestety, nieprzewidziałem jednego - gdy tydzień temu obchodzone były święta Szumiących Pól, które wolałem zignorować na dnie kieliszka, kapłan smoka pozwolił sobie poświęcić narzędzia rolne na znak dobrych zbiorów w przyszłości. Większość broni nie imała się mej skóry, co innego wcześniej poświęcona... Mój uśmiech wygiął się w grymas przerażenia, gdy poczułem ostry ból w klatce piersiowej - szybki i krótki.
+Niestety, nie przewidziałem jednego - gdy tydzień temu obchodzone były święta Szumiących Pól, które wolałem zignorować na dnie kieliszka, kapłan smoka pozwolił sobie poświęcić narzędzia rolne na znak dobrych zbiorów w przyszłości. Większość broni nie imała się mej skóry, co innego wcześniej poświęcona... Mój uśmiech wygiął się w grymas przerażenia, gdy poczułem ostry ból w klatce piersiowej - szybki i krótki.
 
 Po nim nastąpiła jedynie ciemność i chłód.
 
@@ -159,7 +159,7 @@ Widziałem w życiu wiele miast, bogatych, ubogich, wielkich i małych, szlachet
 Wszystko w nim zostało zrobione bez jakiegokolwiek pomysłu i planu, jakby nakreślone ręką ślepca. Budynki wydawały być nieprzyjemnie organiczne, mimo iż zbudowane były z tej samej wulkanicznej skały co wszystko tutaj. Zdawały się oczekiwać, śledzić gzymsami i krużgankami każdy mój ruch. Chciałem przyspieszyć kroku, jednak nie byłem w stanie kontrolować moich własnych nóg. Może i w jego murach miało być bezpieczniej, jednak z tego miejsca pragnąłem uciec jak najszybciej, gdzieś, gdzie nieba nie przysłaniały wyziewy setek kominów, gdzie powietrze nie pachniało palonym mięsem.
 Skierowałem kroki do centrum, gdzie zgromadziło się już kilka strojnie ubranych demonów. Nie wiedziałem dlaczego, ale czułem, że powinienem stanąć przed podstumentem, na którym siedział nader ochydny stwór z młotkiem. Szybko moja obecność tutaj stała się boleśnie jasna.
 
-D: Cisza! Cisza cisza cisza! Zaczynamy aukcję numer 85 obecnego tu Bezwolego. Odwróć się chłopcze, jeśli łaska i przestań się tak garbić. Dobre wrażenie to podstawa!
+D: Cisza! Cisza cisza cisza! Zaczynamy aukcję numer 85 obecnego tu Bezwolnego. Odwróć się chłopcze, jeśli łaska i przestań się tak garbić. Dobre wrażenie to podstawa!
 M: Ja... ale...
 Nogi wbrew mej woli odwróciły się w stronę demonów.
 D: Obecny tu młody okaz, raptem 80 lat powierzchniowych, 189 cm wzrostu, 71 kilo. Zdrowe, białe kły... Uśmiechnij się! I przestań się garbić! Chyba jesteś coś wart?!
@@ -182,7 +182,7 @@ M: Czy ktoś zechce mnie wysłuchać?! TO POMYŁKA! PROSZĘ!!
 D: Pięc po raz pierwszy, pięć po raz drugi, pięć po ra...
 (JD3): Sześć garnców i tyle samo uncji złota!
 D: Po raz pierwszy, drugi, trzeci, sprzedane wielmożnemu generałowi Huraxavirthovi!
-(JD2): Niech to wszyscy święci wezmą!!!
-M: ...Dzięki smokom!
+(JD2): Niech to wszyscy święci wezmą!!!//silently removed
+M: ...Dzięki smokom!//removed cause of above and being strange anyway
 Huraxavirth: No choć. Idziesz ze mną, Bezwolny. Otrzymałeś rekomendację od mojego starego przyjaciela. Mam nadzieję, że jesteś tyle wart na ile mnie zapewnił. Powinieneś się cieszyć, tamten demon zapewne by cię zjadł, za to ja zapewnię ci perspektywy na przyszłość. Tylko ruszaj się szybciej!
 M: Bezręki... To musiał być on. Dobrze że w tym miejscu znalazłem jakiegoś sojusznika... przynajmniej na razie.
