@@ -5,7 +5,7 @@
 #include <vector>
 using namespace std;
 int main(){
-	ifstream source("sc01.cfg");
+	ifstream source("01_Pointless_Insurrection.cfg");
 	ofstream result;
 	result.open("result.txt",ofstream::out|ofstream::trunc);
 	string data;

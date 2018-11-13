@@ -1,0 +1,32 @@
+Pointless Insurrection
+Życie zawsze dawało mi w kość.
+Jako najmłodszy syn lokalnego hrabiego, powinienem cieszyć się wszystkimi przywilejami związanymi z moją sytuacją materialną... Niestety, w rzeczywistości czułem się gorzej niż świniopas. Po pierwsze, byłem fizycznie niepodobny do swojego ojca i dwóch starszych braci, brzydki, mały, cherlawy. Przez całe moje dzieciństwo ciążyło na mnie podejrzenie bycia bękartem, a nad moją matką - niewierności, przez które wolała trzymać się ode mnie z daleka, jakbym był dowodem obciążającym. Nie wolno mi było nawet przebywać w pokojach reprezentacyjnych naszego dworku.
+Dlatego zacząłem zgłębiać tajniki magii, szczególnie tej mrocznej i wyklętej. Talentu do manipulacji Barwą również mi poskąpiono, jednak do sztuk Septivium nie potrzebny był talent, wystarczyła wiedza i samozaparcie. Zniknąłem z sal naszego dworu, aby w pobliskim kurhanie kreślić wzory i studiować księgi zakazane w wielu krainach. Księgi opisujące przywoływanie demonów.
+Kiedy wszystkie 3 księżyce znalazły się w nowiu, gdy nakreśliłem wszystkie wzory i zapaliłem wszystkie świece, w chmurze dymu objawiła się piękna, zmysłowa kobieta. Wzamian za moją nieśmiertelną duszę obiecała mi spełnić jedno, dowolne życzenie. Nie musiałem zastanawiać się długo, ten rozkaz mógł mi dać wszystko, czego poskąpił mi los - siłę, charyzmę, bogactwo, władzę, moc:
+'Pragnę zostać jednym z was. Uczyń mnie wampirem.'
+Po tych słowach świat zawirował i zapadła ciemność.
+Jakiś czas później mój starszy brat musiał wyjechać w daleką podróż, gnany przemożną potrzebą przeżycia przygody i okrycia się chwałą. Zaraz po nim drugi otrzymał obiawienie od Smoka Wszystkiego, bóstwa i ojca nas wszystkich, aby porzucić swe doczesne życie i zostać świątobliwym pustelnikiem. Ich nagłe i dość niespodziewane zniknięcie było wielkim ciosem dla mojego ojca, który podupadł na zdrowiu i pożegnał się z tym światem parę lat później. Zaraz po nim matka umarła ze zgryzoty.
+Kwiaty na ich grobach nie zdążyły nawet zwiędnąć, gdy ogłosiłem się panem tej okolicy. Tuż po tym odprawiłem całą ówczesną służbę aby poczynić pewne usprawnienia w moim wyglądzie i kondycji bez wzbudzania podejrzeń. Następne 60 lat wypełnione były śmiechem, pijaństwem i wulgarną lubieżnością. Wyprawiałem bal za balem, raut za rautem, polowanie za polowaniem, chcąc odpłacić sobie te lata odtrącenia społecznego. Od czasu do czasu kontaktowali się ze mną słudzy Arrainot przypominając, że jako wampir mam obowiązki wobec Władców Piekieł, jednak wolałem ich ignorować, z uroczym uśmiechem prosząc o kolejną pożyczkę z ich skarbca. Mógłbym tak żyć jeszcze setki lat... gdyby nie ten jeden, przeklęty wieczór.
+Marvo
+teamname^Wampirians
+Humans
+Gri'ash
+Co się dzieje? Ledwo słońce zaszło, przyjdźcie za godzinę, dajcie mi spać!
+Mistrzu! Ta sprawa nie może zwlekać! Wieśniacy!
+No wieśniacy. Mały ludek, co tam się krząta po polach, niezbyt smaczni, brudni, głupawi. Coś z nimi?
+Idą na nasz dwór! Mają widły i pochodnie!
+Hm... Dobrze, dobrze.    ...     Zaraz, co?
+Idziemy chopy! Ubijem zmora! Śmierć, hatfu, Hrabiemu! Nie będzie na nas pasożycić Krwiopijca jeden!
+...Wyglądają uroczo... No ale nic, trzeba będzie zaprowadzić w wiosce porządek. Lepiej żeby więcej nie pomyśleli, że mogą sobie tak po prostu organizować rewoltę!
+Defead all raiders
+Marvo enters village
+Przynieście alkohole, szykuje się świetna zabawa!
+Mistrzu! W jaskini koło dworu znajduje się przesyłka awaryjna. Proszę użyć w miarę potrzeb.
+Mistrzu! W jaskini koło dworu znajduje się przesyłka awaryjna. Proszę użyć w miarę potrzeb.
+Beast
+WROOAAARG!!!
+No proszę, przysłali coś przydatnego.
+Incapacitate all rebeliants. Permanently.
+Listen, I do not intend to kill all of you, just stop raiding my castle and keep your mouths shut, so we can live in transquility. Can we agree to that?
+How come, that I can't even suppress a small rebelion?
+Aj co to się zadziało...

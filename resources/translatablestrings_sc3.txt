@@ -1,0 +1,40 @@
+Slave Sale
+To nie było miasto.
+Widziałem w życiu wiele miast, bogatych, ubogich, wielkich i małych, szlachetnych i przepełnionych przestępczością. To nie przypominało żadnego z nich.
+Wszystko w nim zostało zrobione bez jakiegokolwiek pomysłu i planu, jakby nakreślone ręką ślepca. Budynki wydawały być nieprzyjemnie organiczne, mimo iż zbudowane były z tej samej wulkanicznej skały co wszystko tutaj. Zdawały się oczekiwać, śledzić gzymsami i krużgankami każdy mój ruch. Chciałem przyspieszyć kroku, jednak nie byłem w stanie kontrolować moich własnych nóg. Może i w jego murach miało być bezpieczniej, jednak z tego miejsca pragnąłem uciec jak najszybciej, gdzieś, gdzie nieba nie przysłaniały wyziewy setek kominów, gdzie powietrze nie pachniało palonym mięsem.
+Skierowałem kroki do centrum, gdzie zgromadziło się już kilka strojnie ubranych demonów. Nie wiedziałem dlaczego, ale czułem, że powinienem stanąć przed podstumentem, na którym siedział nader ochydny stwór z młotkiem. Szybko moja obecność tutaj stała się boleśnie jasna.
+teamname^Wampirians
+Marvo
+teamname^Demons
+Auctioneer
+teamname^Demons
+Some Demon 3
+Ask, Huraxavirth's pet
+Some Demon 1
+Some Demon 2
+Some VIP Demon
+Cisza! Cisza cisza cisza! Zaczynamy aukcję numer 85 obecnego tu Bezwolnego. Odwróć się chłopcze, jeśli łaska i przestań się tak garbić. Dobre wrażenie to podstawa!
+Ja... ale...
+Obecny tu młody okaz, raptem 80 lat powierzchniowych, 189 cm wzrostu, 71 kilo. Zdrowe, białe kły... Uśmiechnij się! I przestań się garbić! Chyba jesteś coś wart?!
+Eeee... tak jest... proszę... pana
+Wystarczający poziom mocy, silny odpowiednio... no już, pokaż rękę. Widzą państwo, że to nie słabeusz - nadaje się do cięższych prac. Ponadto mamy tu doczynienia z arystokratą. ... Mar...vo Kanaiii (?) Durne powierzchniowe imiona, doczytać się nie da.
+To żaden plus, co drugi tutaj był arystokratą. A ten ostatni był wybrakowany - zamiast pracować tylko wrzeszczał i krył się po kątach. Psychiczny jakiś.
+Nie ma choroby psychicznej, której nie dałoby się wyleczyć za pomocą pałki i bicza. A teraz, jeśli pozwolą Państwo, przystępujemy do licytacji.
+Zaraz! Czy to Marvo Kanarion? TEN Marvo Kanarion?
+Tak! Dziękuję! Ja im mówiłem że to...
+...Pan <i>'Porozmawiamy sobie kiedy indziej?'</i>, pan <i>'Mógłbym prosić o kolejną pożyczkę?'</i>? Pan <i>'Nie jestem w nastroju na podobne zajęcia, odezwijcie się jutro'</i>!?
+...Przepraszam?
+Oj, chłopcze, stawiam na ciebie półtora garnca smoły już od razu. Z chęcią zobaczę, jak wytłumaczysz się swoim przełożonym, zanim położymy cię na Madejowe Łoże i wbijemy drzazgi pod paznokcie...
+Czekajcie! Ja chciałem się tylko...!
+Dwa garnce smoły!
+Dwa i pół garnca!
+Dwa i pół garnca po raz pierwszy, dwa i pół garnca...
+Trzy garnce smoły i rubin!
+Czy ktoś zechce mnie wysłuchać?! TO POMYŁKA! PROSZĘ!!
+Pięć garnców smoły!
+Pięc po raz pierwszy, pięć po raz drugi, pięć po ra...
+Sześć garnców i tyle samo uncji złota!
+Po raz pierwszy, drugi, trzeci, sprzedane wielmożnemu generałowi Huraxavirthovi!
+General Huraxavirth
+No choć. Idziesz ze mną, Bezwolny. Otrzymałeś rekomendację od mojego starego przyjaciela. Mam nadzieję, że jesteś tyle wart na ile mnie zapewnił. Powinieneś się cieszyć, tamten demon zapewne by cię zjadł, za to ja zapewnię ci perspektywy na przyszłość. Tylko ruszaj się szybciej!
+Bezręki... To musiał być on. Dobrze że w tym miejscu znalazłem jakiegoś sojusznika... przynajmniej na razie.

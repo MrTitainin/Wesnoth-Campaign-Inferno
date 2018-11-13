@@ -110,6 +110,8 @@ Death of Marvo
 Death of Armless
 In this scenario castle tiles heal your units as they stand on them.
 Turning on sound effects is highly recomended for keeping up with the storyline
+Holding shift while animation of closing the bridge is playing is expected to make this animation faster.
+Latające ścierwo. Dopadnę cię!
 Ta rzeka lawy zdaje się ciągnąć w nieskończoność... Niesamowite, fantastyczne, wspaniałe! O, jest jakiś łuk. Gdybym znalazł do niego strzały mógłbym zrobić coś z tym chochlikiem.
 W sumie, to powinienem się tym zająć. O, widzę, że masz łuk Erg'echa.
 Szybciej tam, chcę mieć głowę tego chochlika! Tu leżą jakieś strzały.
@@ -140,7 +142,6 @@ Enter whatever is behind that guards
 Death of Marvo
 In this scenario castle tiles heal your units as they stand on them.
 Turning on sound effects is highly recomended for keeping up with the storyline.
-Holding shift while animation of closing the bridge is playing is expected to make this animation faster.
 You can still reveal map by visiting castles and guards (but it's not necessary). Finishing current objective will proceed you to next scenario.
 Hej! Niewolnik! Nie tędy droga.
 Ale tamtędy nie dają mi przejść.
