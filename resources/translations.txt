@@ -56,28 +56,51 @@ After it there were only darkness and coldness.
 Po nim nastąpiła jedynie ciemność i chłód.
 
 1.
-Marvo: Where ... where am I? My. Head. I feel ... so empty inside. Ugh.
+	Marvo:
+Where ... where am I? My. Head. I feel ... so empty inside. Ugh.
 They buried me somewhere? It looks like an abandoned mine. I have to get out of here.
+Gdzie... gdzie ja jestem? Moja. Głowa. Czuję się... jakoś tak pusty w środku. Ugh.
+Zakopali mnie gdzieś? To wygląda jak opuszczona kopalnia. Muszę się z niej wydostać.
 
-2. Exit from a dark tunnel to place with lava
-(old dialogue 8)
-Marvo: It's hot here, but my skin is still cool and dry. One more moment and I will boil here alive ...
+2.
+	Marvo:
+It's hot here, but my skin is still cool and dry. One more moment and I will boil here alive ...
+Gorąco tutaj, jednak moja skóra nadal jest chłodna i sucha. Jeszcze chwila i ugotuję się tu żywcem...
 
-3. fight with nasnas
-Marvo: Oh, nasnas. Immediately explain to me what's going on here.
-Nasnas: Wriaa !!! Hmwrrr ...
-Marvo: Wild nasnas? Interesting...
+3.
+	Marvo:
+Oh, nasnas. I want immediate explanation what is going on here.
+O, nasnas. Natychmiast wyjaśnij mi co tu się dzieje.
+	Nasnas:
+Wriaa!!! Hmwrrr...
+Wriaa!!! Hmwrrr...
+	Marvo:
+Wild nasnas? Interesting...
+Dziki nasnas? Ciekawe...
 
-4. First entrance to any observation point
-Marvo: I have to say, that the area looks impressive, and at the same time arouses strong anxiety inside me.
+4.
+	Marvo:
+I have to say, this area looks impressive, and at the same time arouses strong anxiety inside me.
+Muszę przyznać, że okolica wygląda imponująco, a zarazem wzbudza we mnie silny niepokój.
 
-5. Entrance to the bridge leading to the island of Nasnas
-The guard of the island of the nasnas: Hey, you right there. Have you seen nasnas, slave?
-Marvo: I have seen many nasnas, and I see more behind you. And besides, I'm not a slave.
-Guardian of the island of the nasnas: unfortunately, it looks like u are. Go ahead, you are useless here.
-Marvo: What a impertinence! If I had my sword, you won't be here anymore.
-Guard of the island of the nasunas: ...
-Marvo: dumb.
+5.
+	The guard of the island of the nasnas:
+Hey, you there. Have you seen nasnas, slave?
+Hej, ty tam. Widziałeś nasnasa, niewolniku?
+	Marvo:
+I have seen many nasnas, and I see more behind you. And besides, I'm not a slave.
+Widziałem wiele nasnasów, a za tobą widzę jeszcze więcej. A tak poza tym to nie jestem niewolnikiem.
+	Guardian of the island of the nasnas: 
+Unfortunately, it seems u are. Go ahead, you have no business here.
+Najwyraźniej jednak jesteś. Idź dalej, nic tu po tobie.
+	Marvo:
+What a impertinence! If I had my sword, you won't be here anymore.
+Co za impertynencja! Gdybym miał swój miecz, to już by cię tu nie było.
+	Guard of the island of the nasunas: 
+...
+	Marvo: 
+Dimwit.
+Bałwan.
 
 6. Entrance to the observation point above the island of the nasnas
 Marvo: Oh, bridge. I wonder how to get there and where it leads.
