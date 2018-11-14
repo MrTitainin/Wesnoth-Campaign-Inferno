@@ -102,26 +102,49 @@ Co za impertynencja! Gdybym miał swój miecz, to już by cię tu nie było.
 Dimwit.
 Bałwan.
 
-6. Entrance to the observation point above the island of the nasnas
-Marvo: Oh, bridge. I wonder how to get there and where it leads.
+6.
+	Marvo:
+Oh, bridge. I wonder how to get there and where it leads.
+O, mostek. Ciekawe jak tam dojść i dokąd prowadzi.
 
-7. fight the first devil
-(old dialogue 4)
-Marvo // ALT: A man should not have so many eyes! Neither mouth, nor .. bleh, I won't give a comment to that.
+7.
+	Marvo // ALT:
+A man should not have so many eyes! Neither mouth, nor .. bleh, I won't add any more remarks to that.
+Człowiek nie powinien mieć tylu oczu! Ani ust, ani.. bleh, nie skomentuję tego.
 
-8. Meeting with the handless
-(old dialogue 6)
-Marvo // ALT: You! No! Go away from me! Go away, I said!
-Armlessness: Hmmm ... slave who escaped? And what are you doing so far away from the manufactory? I will have to report it ...
-Marvo // ALT: I'm not slave! Wait ... have I been sold ?! Where am I?!!
-Armless: Oh. I understand. You certainly feel very confused now. But you should expect it. Everything was in the cyrograph
-Marvo: ...
-Marvo: Am I in Hell?
-Armories: The correct name of this place is Arrainot, the land of grief, but "Hell" is easier to remember. Yes, you died, and now under your contract your shell has joined us here, below.
-Marvo: Nononononono... This is NOT HAPPENING. I can not sit down here with monsters. It's just bad dream. Wait ... I'll wake up soon and everything will be fine!
-Armlessness: You call us monsters although you do not look better. It's unkind.
-Marvo // ALT: What's up ... My face! That's awful! I look like a nightmare!
-Armlessness: Calm down and listen - I am going to move you out of here, to the nearest city. These tunnels aren't safe. And then ... then we'll see.
+8.
+	Marvo // ALT:
+You! No! Go away from me! Go away, I said!
+Ty! Nie! Odejdź ode mnie! Won!
+	Armlessness:
+Hmmm... fugitive slave? And what are you doing so far away from the manufactory? I will have to report it...
+Hmmm... zbiegły niewolnik? A co ty robisz tak daleko od manufaktury? Będę to musiał zgłosić...
+	Marvo // ALT:
+I'm not a slave! Wait... have I been sold?! Where am I?!
+Nie jestem niczyim niewolnikiem! Zaraz... czy zostałem sprzedany?! Gdzie ja jestem?!
+	Armless:
+Oh. I understand. You certainly feel very confused now. But you should expect it. Everything was explicitly written in the pact you signed.
+Och. Rozumiem. Z pewnością czujesz się teraz mocno skołowany. Ale powinieneś się tego spodziewać. Wszystko było przecież zawarte w cyrografie.
+	Marvo:
+...
+	Marvo:
+Am I in Hell?
+Czy ja jestem w Piekle?
+	Armories:
+The correct name of this place is Arrainot, the Lands of Grief, but 'Hell' is hell easier to remember. Yes, you died, and now under conditions of the pact, your mortal shell has joined us here, below.
+Prawidłowa nazwa tego miejsca to Arrainot, Ziemie Zgryzoty, ale 'Piekło' jest łatwiejsze do zapamiętania. Tak, umarłeś, i teraz w ramach zawartej umowy twoja powłoka dołączyła do nas tu, na dole.
+	Marvo:
+Nononononono... This is NOT HAPPENING. I can not sit down here with monsters. It's just bad dream. Soon... I'll wake up soon and everything will be absolutely fine!
+Nienienienienie. To się NIE DZIEJE. Ja nie mogę siedzieć tu na dole z potworami. To mi się śni. Zaraz... zaraz się ob-budzę i wszystko będzie w najlepszym porządku.
+	Armlessness:
+You call us monsters although you do not look better. It's ill-mannered.
+Nazywasz nas poworami choć sam nie wyglądasz lepiej. To nieuprzejme.
+	Marvo // ALT:
+What are you... My face! Awful! I look like a nightmare!
+Co się... Moja twarz! Ochydstwo! Wyglądam jak koszmar senny!
+	Armlessness:
+Calm down and listen - I can and I will guide you out of these tunnels, to the nearest city. Here nobody is safe. And then... then we'll see.
+Uspokój się i słuchaj - wyprowadzę cię stąd do najbliższego miasta, te tunele nie należą do bezpiecznych. A potem... potem zobaczymy.
 
 9. Entrance to the bridge to the fields of devils
 Marvo: Oh, devil. Quite a lot of them here. Their tendency to take strange shapes will never stop to amaze me.
