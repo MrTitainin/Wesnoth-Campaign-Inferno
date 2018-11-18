@@ -1,4 +1,5 @@
-﻿Prolog
+﻿MISSION I
+
 Life was always harsh for me.
 Życie zawsze dawało mi w kość.
 
@@ -26,25 +27,11 @@ Kwiaty na ich grobach nie zdążyły nawet zwiędnąć, gdy ogłosiłem się pan
 
 
 
+-----|||-----
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Misja druga
+MISSION II
 
 I knew I will prevail. Their dirty faces looked at me in silent dismay. Twenty against one? Odds were clearly uneven - drank with blood I was faster than the cobra and stronger than aurochs. I did not plan to organize a massacre... Only a small lesson, a few demolished houses, a few new tombstones on a cemetery would be enough. After all, these poor peasants were providing me with revenues from my lands.
 Wiedziałem, że zatryjumfuję. Ich brudne, niewydarzone gęby patrzyły na mnie z niemym przerażeniem. Dwudziestu na jednego? Toż to nierówna walka - opity krwią byłem szybszy od kobry i silniejszy od tura. Nie planowałem organizować im masakry - wystarczyłaby jedynie drobna nauczka, parę rozwalonych domów, parę nowych nagrobków na przykaplicznym cmentarzu. W końcu te biedne ludki zapewniały przychód na moich ziemiach.
@@ -54,6 +41,11 @@ Niestety, nie przewidziałem jednego - gdy tydzień temu obchodzone były świę
 
 After it there were only darkness and coldness.
 Po nim nastąpiła jedynie ciemność i chłód.
+
+---
+Objectives (all):
+
+---
 
 1.
 	Marvo:
@@ -183,10 +175,10 @@ Uaaa! Wiać!
 
 12.
 	Guardian of nest #1:
-See what you have done? You got that nasnas, but some spawns had run away. Are you proud of yourself?
+See what you've done? You got that nasnas, but some spawns had run away. Are you proud of yourself?
 I widzisz co narobiłeś? Dorwałeś tego nasnasa, za to chochliki zwiały. Zadowolony z siebie?
 	Guardian of nest #2:
-So why have you not kept an eye on them? That is why there are three of us to look after them.
+So why haven't you kept an eye on them? That is why there're three of us to look after them.
 To czemu ich nie dopilnowałeś? Po to jest tu nas trzech żebyśmy wszyscy pilnowali.
 	Guardian of nest #1:
 And why should I be the only one to keep watch?
@@ -198,7 +190,7 @@ Co jest?
 Dhre'val let spawns go.
 Dhre'val wypuścił chochliki.
 	Guardian of nest #2:
-I did not let the spawns go! It was Seghr'ghral who let them escape.
+I didn't let the spawns go! It was Seghr'ghral who let them escape.
 Nie wypuściłem chochlików! To Seghr'ghral pozwolił im uciec.
 	Guardian of nest #3:
 Shut up, blockheads! I would order now both of you to chase after these spawns, but I will not stand here and watch them only by myself. Your responsibility is to stand here and watch. Watch the spawns. Watch them to make sure they will not run away again. It is really not an overly complicated task. How many times it will be necessary to explain that?
@@ -258,22 +250,22 @@ Ta rzeka lawy zdaje się ciągnąć w nieskończoność... Niesamowite, fantasty
 Some spawn is blocking the way by closing the bridge.
 Jakiś chochlik blokuje przejście zamykając mostek.
 	Guardian of the cave 1:
-If your master cannot pass, why do not help him by yourself? Go kill that spawn or something. I do not have relevant equipment.
+If your master cannot pass, why won't you help him by yourself? Go kill that spawn or something. I don't have relevant equipment.
 Skoro twój pan nie może przejść, to czemu sam mu nie pomożesz? Idź ubij tego chochlika czy coś. Nie mam wyposażenia do takiej roboty.
 	Marvo:
 I have a bow, but I need arrows.
 Mam tu jakiś łuk, ale nie mam strzał.
 	Cave guard 2:
-Oh, this bow belongs to Erg'ech. He will be surprised. Maybe we should break it? For what purpose he has that bow in first place?
+Oh, this bow belongs to Erg'ech. He'll be surprised. Maybe we should break it? For what he has that bow in first place?
 O, to łuk Erg'echa. Ale się zdziwi. Może by mu tak go zepsuć? A tak właściwie po co mu łuk?
 	The cave guard 1:
-I do not know. I think he took it as a booty from the surface. Have you ever shot a bow?
+I don't know. I think he took it as a booty from the surface. Have you ever shot a bow?
 W sumie nie wiem. Chyba wziął jako łup z powierzchni. Strzelałeś kiedyś z łuku?
 	Cave guard 2:
-No, never. Let's go try it on this spawn.
+No, never. Let's try it on this spawn.
 Nie, nigdy. Chodźmy sprawdzić na tym chochliku.
 	The cave guard 1:
-No, no, no. I'm going to try it and you are staying here on guard.
+No, no, no. I'm going to try it and you're staying here on guard.
 Nie, nie, nie. Ja idę sprawdzić, a ty tu stoisz i pilnujesz.
 	Cave guard 2:
 Grhmfp.
@@ -291,7 +283,7 @@ Well, he took a bow. Sigh...
 Some spawn is blocking the way by closing the bridge.
 Jakiś chochlik blokuje przejście zamykając mostek.
 	Guardian of the cave 1:
-If your master cannot pass, why do not help him by yourself? I do not have relevant equipment. I would need something to shoot him. Go take care of it, slave.
+If your master cannot pass, why won't you help him by yourself? I don't have relevant equipment. I'd need something to shoot him. Go take care of it, slave.
 Skoro twój pan nie może przejść, to czemu sam mu nie pomożesz? Ja nie mam wyposażenia do takiej roboty. Potrzebowałbym czegoś, żeby go ustrzelić. Idź się sam tym zajmij, niewolniku.
 	Marvo:
 I'm not a... well, whatever.
@@ -313,7 +305,7 @@ Dobra, dobra.
 
 18b.
 	Cave guard 1:
-I think, I should take care of it. Oh, I see you have the bow of Erg'ech.
+I think, I should take care of it. Oh, I see you have Erg'ech's bow.
 W sumie, to powinienem się tym zająć. O, widzę, że masz łuk Erg'echa.
 	Armless:
 Hurry up, I want to have this spawn's head! Here are some arrows.
@@ -333,7 +325,7 @@ A ty gdzie niewolniku?
 He is just going inside.
 Idzie do środka właśnie.
 	Guardian of passage 1:
-Today is an important event. Slaves are not permitted to wander around the city.
+Today is an important event. Slaves aren't permitted to wander around the city.
 Dzisiaj jest ważne wydarzenie. Niewolnicy nie mogą się wałęsać po mieście.
 	Armlessness:
 What is it today, a bunch of morons? Nosense, what will I care about? Just take care of yourself, we are already in the guarded area, right next to the entrance to the city.
@@ -361,13 +353,13 @@ O, widzę, że mnie dogoniłeś. Przed nami znajduje się miasto - Irxerivethg. 
 Iks... Irkse... Anyway, what were you doing in these tunnels?
 Iks... Irkse... Nieważne. Co robiłeś w tych tunelach?
 	Armless:
-I was returning from a friend, the owner of a plantation of rotten wood. Usually, these tunnels are not so turbulent. And you, submit...
+I was returning from a friend, the owner of a plantation of rotten wood. Usually, these tunnels are not so turbulent. And you, serf...
 Wracałem od znajomego, właściciela plantacji zgniłodrzewia. Zazwyczaj w tych korytarzach jest znacznie spokojniej. Ty zaś, bezwolny...
 	Marvo:
 ...My name is Marvo.
 ...Nazywam się Marvo.
 	Armless:
-Here, submits like you have to deserve for their names. You will probably get a nickname or number after being taken into possesion.
+Here, serfs like you have to deserve for their names. You will probably get a nickname or number after being taken into possesion.
 Tutaj bezwolni podobni tobie muszą zasłużyć sobie na imię. Pewnie dostaniesz ksywkę lub numerek, kiedy już znajdą dla ciebie właściciela.
 	Marvo:
 Really...? And you have any name?
@@ -389,9 +381,10 @@ Hihihih, naprawdę, naprawdę zabawny. Podobasz mi się. Jeszcze chwila i rozwa�
 	Armlessness:
 With that dumbstruck face you look more stupid than normal, even I thought that is impossible. Move on, you have to be registered to avoid trouble. And not to put me in trouble.
 Z tą zdębiałą miną wyglądasz bardziej głupio niż normalnie, a myślałem, że to niemożliwe. Ruszajmy, musisz zostać zarejestrowany w mieście żeby nie mieć problemów. I oczywiście żebym ja nie miał problemów.
----
 
-22-24
+---
+Deaths:
+
 	Marvo:
 Am I... dying?
 Czy ja... umieram?
@@ -406,9 +399,11 @@ Nie! Nie zostawiaj mnie tu... samego... proszę!
 
 
 
+-----|||-----
 
-III
 
+
+MISSION III
 
 It was not a city.
 I saw in my life many, rich and poor, great and small, noble and full of crime. This one was not like any of them. Everything there was done without any idea or plan, just as blind man had drawn his patterns on card of paper. Houses seemed to be alive in irksome manner, in spite of being build of same volcanic rock as everything else here. They appear to be following my every move with their galleries and cornices. Carefully observing my every move with their doors. I wanted to move faster, but I was inable to control my body. Even if inside this place I should be safer, I wanted to run away, just like a coward between enemies. I felt like snow-white sheep inside the circle of hungry wolfes. Thankfully there were him. I.. Ivarx... Armless. .
@@ -419,89 +414,171 @@ Widziałem w życiu wiele miast, bogatych i ubogich, wielkich i małych, szlache
 We moved our steps to the center, where a few well-dressed demons had already gathered. I had no idea why, but I felt that I should stand before pedestal, on which very disgusting creature with a hammer were sitting. Quickly, my role here became painfully bright.
 Skierowaliśmy kroki do centrum, gdzie zgromadziło się już kilka strojnie ubranych demonów. Nie wiedziałem dlaczego, ale czułem, że powinienem stanąć przed postumentem, na którym siedział nader ochydny stwór z młotkiem. Szybko moja obecność tutaj stała się boleśnie jasna.
 
-D: Silence! Silence, silence, silence! We are starting auction no. 85. The mindless! Turn back boy, please. And stop hunches so much. Good impression is the basic!
-M: I ... but ...
+---
+(No objectives)
+---
 
+	Auctioneer:
+Silence! Silence, silence, silence! We are starting auction no. 85. of the serf here! Turn back boy, please. And stop hunches so much. Good impression is essencial!
+Cisza! Cisza, cisza, cisza! Zaczynamy aukcję numer 85 obecnego tu Bezwolnego. Odwróć się chłopcze, jeśli łaska i przestań się tak garbić. Dobre wrażenie to podstawa!
+	Marvo:
+I... but...
+Ja... ale...
+	//unused narrator
 My body, agains my will, turned my face to the demons.
-D: A young one which is presenting here, only 80 surface years, 189 cm higth, 71 kg weight. Healthy, white fangs ... Smile, young one! And stop hunching! I think you are worth some money, aren't you?!
-M: Eeee ... Aye, aye ... Sir, yes ... Sir!
+	Auctioneer:
+A young specimen is presented here, only 80 surface years, 189 cm heigth, 71 kg weight. Healthy, white fangs ... Smile, young one! And stop hunching! I think you are worth some money, aren't you?!
+Obecny tu młody okaz, raptem 80 lat powierzchniowych, 189 cm wzrostu, 71 kilo. Zdrowe, białe kły... Uśmiechnij się! I przestań się garbić! Chyba jesteś coś wart?!
+	Marvo:
+Eeee... Aye, aye... yes... sir!
+Eeee... tak jest... proszę... pana
+	Auctioneer:
+Sufficient power level, strong enough ... no more talking, show your hand!. You all can see that he is not a weakling - he is suitable for harder tasks. Remember, that we are still dealing with the aristocrat. ...Mar...vo Kanaiii (?) Dumb, strange surface names, nearly impossible to read.
+Wystarczający poziom mocy, silny odpowiednio... no już, pokaż rękę. Widzą państwo, że to nie słabeusz - nadaje się do cięższych prac. Ponadto mamy tu doczynienia z arystokratą. ... Mar...vo Kanaiii (?) Durne powierzchniowe imiona, doczytać się nie da.
+	Demon 1:
+It is no plus, every one in two here was an aristocrat. The last one was defective - instead of work, only screamed and hid in the corners. Psycho.
+To żaden plus, co drugi tutaj był arystokratą. A ten ostatni był wybrakowany - zamiast pracować tylko wrzeszczał i krył się po kątach. Psychiczny jakiś.
+	Auctioneer:
+There is not a single mental illness that cannot be cured with a baton and a whip. And now, if you allow us, we will start to auction.
+Nie ma choroby psychicznej, której nie dałoby się wyleczyć za pomocą pałki i bicza. A teraz, jeśli pozwolą Państwo, przystępujemy do licytacji.
+	Demon 2:
+Wait! Is he not Marvo Kanarion? THIS Marvo Kanarion?
+Zaraz! Czy to Marvo Kanarion? TEN Marvo Kanarion?
+	Marvo:
+Yes! Thank you! I told them that ...
+Tak! Dziękuję! Ja im mówiłem że to...
+	Demon 2:
+...Mr. <i>'we will talk some other time'</i>? Mr. <i>'could I ask for another loan'</i>? Mr. <i>'I am not in mood for activities like this, call me tomorrow'</i>???
+...Pan <i>'Porozmawiamy sobie kiedy indziej?'</i>, pan <i>'Mógłbym prosić o kolejną pożyczkę?'</i>? Pan <i>'Nie jestem w nastroju na podobne zajęcia, odezwijcie się jutro'</i>!?
+	Marvo // ALT:
+...Excuse me?
+...Przepraszam?
+	Demon 2:
+Oh, boy, I put one and a half gallons of tar on you right now. I will be happy to see how you explain yourself to your superiors before we put you on the rack and puts splinters under your filthy nails ...
+Oj, chłopcze, stawiam na ciebie półtora garnca smoły już od razu. Z chęcią zobaczę, jak wytłumaczysz się swoim przełożonym, zanim położymy cię na Madejowe Łoże i wbijemy drzazgi pod paznokcie...
+	Marvo:
+Wait! I just wanted to ...!
+Czekajcie! Ja chciałem się tylko...!
+	Demon 1:
+Two pots of tar!
+Dwa garnce smoły!
+	Demon 2:
+Two and a half pots!
+Dwa i pół garnca!
+	Auctioneer:
+Two and a half pots for the first time, two and a half pots ...
+Dwa i pół garnca po raz pierwszy, dwa i pół garnca...
+	Demon 1:
+Three pots of tar and ruby!
+Trzy garnce smoły i rubin!
+	Marvo:
+Will anyone want to hear me ?! IT IS A MISTAKE! PLEASE !!
+Czy ktoś zechce mnie wysłuchać?! TO POMYŁKA! PROSZĘ!!
+	Demon 2:
+Five tar pots!
+Pięć garnców smoły!
+	Auctioneer:
+Five for the first time, five for the second time, five for...
+Pięc po raz pierwszy, pięć po raz drugi, pięć po ra...
+	Demon 3:
+Six pots and as many ounces of gold!
+Sześć garnców i tyle samo uncji złota!
+	Auctioneer:
+For the first, second and third time, sold to honourable general Huraxavirth!
+Po raz pierwszy, drugi, trzeci, sprzedane wielmożnemu generałowi Huraxavirthovi!
+	Demon 2 //unused anyway:
+Fuck it !!!
+	Marvo //unused anyway:
+... Thanks the dragons!
+	Huraxavirth:
+Come with me, serf. I hope you have as much value as my friend assured me. You should be glad, that demon probably would eat you already... but I'll give you prospects for the future. Just move faster!
+No choć. Idziesz ze mną, Bezwolny. Otrzymałeś rekomendację od mojego starego przyjaciela. Mam nadzieję, że jesteś tyle wart na ile mnie zapewnił. Powinieneś się cieszyć, tamten demon zapewne by cię zjadł, za to ja zapewnię ci perspektywy na przyszłość. Tylko ruszaj się szybciej!
+	Marvo:
+Armless ... It must be he. Well, I'm glad, that i found an ally in place right this... at least right now.
+Bezręki... To musiał być on. Dobrze że w tym miejscu znalazłem jakiegoś sojusznika... przynajmniej na razie.
 
-D: Silence! Silence, silence, silence! We are starting auction no. 85 on the plane of the involuntary. Turn away, boy, if you please and stop hunches so. A good impression of the foundation!
-M: I ... but ...
-Legs in my language turned to the demons.
-D: A young specimen present here, suddenly 80 years of surface, 189 cm tall, 71 kg. Healthy, white fangs ... Smile! And stop hunching! I think you are worth something ?!
-M: Eeee ... this is ... please ... sir
-D: Sufficient power level, strong enough ... no more talking, show your hand!. You all can see that he is not a weakling - he will be suitable for harder works. Remember, that we are still dealing with the aristocracy.
- ... Mar ... vo Kanaiii (?) Dumb, strange surface names, nearly impossible to read.
-(ANY DEMON 1): It's any pros, every second here was an aristocrat. The last one was scrapped - instead of work, only screamed and hid in the corners. Psychic piece of shit.
-D: There are no psychological symptoms that cannot be cured with a stick or whip. And now, if you allow us, we'll start bidding.
-(ANY DEMON 2): Wait! Is he Marvo Kanai? THIS Marvo Kanai?
-M: Yes! Thank you! I told them that ...
-(JD2): ... Mr. "we'll talk another time"? Mr. "could I ask for another loan"? Mr. "I'm not in the mood for similar activities, call tomorrow" ???
-M // ALT: ... Excuse me?
-(JD2) Oh, boy, I put one and a half gallons of tar on you right now. I will be happy to see how you explain yourself to your superiors before we put you on the madej bed and puts splinters under your filthy nails ...
-M: Wait! I just wanted to ...!
-(JD1): Two pots of tar!
-(JD2): Two and a half pots!
-D: Two and a half pots for the first time, two and a half pots ...
-(JD1): Three pots of tar and ruby!
-M: Will anyone want to hear me ?! It's mistake! PLEASE !!
-(JD2): Five tar pots!
-D: Five for the first time, five for the second time, five for ...
-(JD3): Six pots and the same ounce of gold!
-D: For the first, second and third time, sold to magnate general Huraxavirth!
-(JD2): Fuck it !!!
-M: ... Thanks the dragons!
-Huraxavirth: No, but you are coming with me, mindless. I hope you have as much value as my friend assured me. You should be glad, that demon probably would eat you already... but I will give you prospects for the future. Just move faster!
-M: Armless ... It must be he. Well, I'm glad, that i found an ally in place right this... at least right now.
+
+
+-----|||-----
 
 
 
+MISSION IV
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Misja 4
-Generał H: Słuchajcie larwy mnie dobrze. Dzisiaj jest dzień, w którym będziecie mogli się wykazać. W tej właśnie dolinie nastąpił wypadek magiczny. Pojawili się nieumarli.
-Demon: …Ale skąd nieumarli u nas, na dole? Przecież jesteśmy…
-H: Nieśmiertelni? Być może. Jednak trupy jakieś do nas dochodzą z powierzchni. Czarnoksiężnicy próbowali zaszczepić w nich zdobyte dusze używane do napędzania fabryki. Te niestety zbuntowały się, rozszarpały fizyczne powłoki swych twórców i szaleją. Jest ich coraz więcej.
-Marvo: Nieumarli heor to zawsze był śliski temat. Czemu nie użyli do tego czystej Czarnej Magii?
-Marvo: …Panie Generale.
-H: Nie mędrkuj tak, chłopcze, nie jesteś specjalistą. Nie wiem co im tam siekło. Dość powiedzieć, że jest problem, a my, jako Straszliwe Kohorty Wyzwoleńcze Piekieł musimy go rozwiązać! To będzie świetny test waszych umiejętności i pokaz siły naszej armii! 
-H: Za mrok i za ogień!
-Demony: Za siarkę i smołę!
-Marvo: Wykazać się, co? To może być moja szansa na życie lepsze niż marne szorowanie podłóg.
-ZADANIA:
+---
+Objectives (all):
+Marvo gets inside factory ruins
 Dostań się Marvo do ruin fabryki
-Marvo musi przeżyć
-Generał musi przeżyć
-Misja dzieli się na dwa etapy – pierwszy etap typu przetrwanie. Siły przeciwnika są przeważające, acz zarazem na tyle rozproszone, żeby manewrowanie między nimi było możliwe. Marvo musi dostać się do fabryki w centralno – południowym fragmencie mapy. W międzyczasie pojawi się subplot z Lullaby, która zapewne będzie wplątana w całą sytuację.
-Wariant dialogu – Marvo wchodzi pierwszy do ruin
-Marvo: Okej, co teraz… gdzieś musi znajdować się źródło tych wszystkich nieumarłych
-Upiór: Upodleni! Potępieni! Wstańcie na moje wołanie! Usłyszcie mój głos!
-Marvo(vr2): Hej ty! Co ty niby wyprawiasz, plebsie?
-Upiór: Zważ na słowa, sługusie mroku! Kiedyś zwałem się Dirraiel Straszliwy, byłem najpodlejszym z Czarnych Magów! Całe miasta padały na kolana przed moją…!
-Marvo: Gadaniną? Zawartością rozporka? Dla kogo kierujesz ten cyrk? Jesteś martwy, a ja dopilnuję, abyś wrócił grzecznie do słoika, z którego cię wypuszczono.
-Wariant dialogu – Marvo wchodzi do ruin już po generale
-Generał H: Poddaj się, duchu i złóż broń. I tak nie masz już nic do stracenia.
-Marvo: Tak! Przestań bawić się w fabrykę trupów i poddaj się!
-Upiór: Zważcie na słowa, sługusy mroku! Kiedyś zwałem się Dirraiel Straszliwy, byłem najpodlejszym z Czarnych Magów! Całe miasta padały na kolana przed moją potęgą!
-Generał H: Nie obchodzi mnie kim byłeś. Teraz jesteś jedynie zasilaczem, źródłem paliwa i wrócisz do swojego filakterium.
-Upiór: PRĘDZEJ ZDECHNĘ!
-Marvo: Niefortunny dobór słów…
-Druga część misji jest dużo bardziej typowa, należy po prostu zabić szefa truposzy.
+
+Death of Marvo
+Śmierć Marvo
+
+Death of General Huraxavirth
+Śmierć generała Huraxavirtha
+---
+
+1.
+	General Huraxavirth:
+Listen carefully, larvas. Today is the day, in which you'll be able to prove yourself. In this valley a magical accident has just happened. Undead appeared.
+Słuchajcie larwy mnie dobrze. Dzisiaj jest dzień, w którym będziecie mogli się wykazać. W tej właśnie dolinie nastąpił wypadek magiczny. Pojawili się nieumarli.
+	Demon:
+...But fromwhere undead here, below? Yet we're...
+...Ale skąd nieumarli u nas, na dole? Przecież jesteśmy...
+	General Huraxavirth:
+Immortal? Maybe. But some corpses 
+Nieśmiertelni? Być może. Jednak trupy jakieś do nas dochodzą z powierzchni. Czarnoksiężnicy próbowali zaszczepić w nich zdobyte dusze używane do napędzania fabryki. Te niestety zbuntowały się, rozszarpały fizyczne powłoki swych twórców i szaleją. Jest ich coraz więcej.
+	Marvo:
+Undead heor was always a slippery slope. Why have they not used pure Dark Magic?
+Nieumarli heor to zawsze był śliski temat. Czemu nie użyli do tego czystej Czarnej Magii?
+	Marvo:
+...sir general.
+...Panie Generale.
+	General Huraxavirth:
+Don't be so snooty, boy, you are not a specialist. I dunno what went wrong, it's enough to say, there's a problem, and we, Fearsome Cohorts of Hell's Deliberaion, have to solve it. I'll be great test of your skills and a demonstration of our army's might!
+Nie mędrkuj tak, chłopcze, nie jesteś specjalistą. Nie wiem co im tam siekło. Dość powiedzieć, że jest problem, a my, jako Straszliwe Kohorty Wyzwoleńcze Piekieł musimy go rozwiązać! To będzie świetny test waszych umiejętności i pokaz siły naszej armii! 
+	General Huraxavirth:
+For darkness and fire!
+Za mrok i za ogień!
+	Demons:
+For sulfur and tar!
+Za siarkę i smołę!
+	Marvo:
+Prove myself, right? It may be my chanse for better living than meaningless floor scouring.
+Wykazać się, co? To może być moja szansa na życie lepsze niż marne szorowanie podłóg.
+
+2a.
+	Marvo:
+Good, what now... there must be some source of all these undead.
+Dobra, co teraz... gdzieś musi znajdować się źródło tych wszystkich nieumarłych
+	Phantom:
+Dishonoured! Condemned! Raise upon my call! Hear my voice!
+Upodleni! Potępieni! Wstańcie na moje wołanie! Usłyszcie mój głos!
+	Marvo // ALT:
+Hey, you! What are you doing, pleb?
+Hej ty! Co ty niby wyprawiasz, plebsie?
+	Phantom:
+Mind your words, petty minion of darkness! Once I was known as Dirraiel the Fearsome, I was the vilest of Dark Mages! Whole cities bowed before my...
+Zważ na słowa, sługusie mroku! Kiedyś zwałem się Dirraiel Straszliwy, byłem najpodlejszym z Czarnych Magów! Całe miasta padały na kolana przed moją...
+	Marvo:
+Palaver? Fly content? To who you are doing this buffoonery? You are apparently dead, and I will make sure you return to jar, you have been relased from.
+Gadaniną? Zawartością rozporka? Dla kogo kierujesz ten cyrk? Jesteś martwy, a ja dopilnuję, abyś wrócił grzecznie do słoika, z którego cię wypuszczono.
+
+2b.
+	General Huraxavirth:
+Lay down your weapon and surrender, ghost. You have nothing to lose anyway.
+Poddaj się, duchu i złóż broń. I tak nie masz już nic do stracenia.
+	Marvo:
+Right! Stop playing this corpse factory and surrender!
+Tak! Przestań bawić się w fabrykę trupów i poddaj się!
+	Phantom:
+Mind your words, minions of darkness! Once I was known as Dirraiel the Fearsome, I was the vilest of Dark Mages! Whole cities bowed before my might!
+Zważcie na słowa, sługusy mroku! Kiedyś zwałem się Dirraiel Straszliwy, byłem najpodlejszym z Czarnych Magów! Całe miasta padały na kolana przed moją potęgą!
+	General Huraxavirth:
+I do not care who you were. Now you are only a power supply, fuel source, and you will return to your phylactery.
+Nie obchodzi mnie kim byłeś. Teraz jesteś jedynie zasilaczem, źródłem paliwa i wrócisz do swojego filakterium.
+	Phantom:
+I'D RATHER DIE!
+PRĘDZEJ ZDECHNĘ!
+	Marvo:
+Unfortunate choice of words...
+Niefortunny dobór słów...
