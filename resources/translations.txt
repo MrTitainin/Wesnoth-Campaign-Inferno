@@ -507,8 +507,11 @@ MISSION IV
 
 ---
 Objectives (all):
-Marvo gets inside factory ruins
+Marvo must enter factory ruins
 Dostań się Marvo do ruin fabryki
+
+Defead that snooty phantom
+Pokonaj tego bufonowatego ducha
 
 Death of Marvo
 Śmierć Marvo
@@ -525,7 +528,7 @@ Słuchajcie larwy mnie dobrze. Dzisiaj jest dzień, w którym będziecie mogli s
 ...But fromwhere undead here, below? Yet we're...
 ...Ale skąd nieumarli u nas, na dole? Przecież jesteśmy...
 	General Huraxavirth:
-Immortal? Maybe. But some corpses 
+Immortal? Maybe. But some corpses reach us from surface. Necromancers tried to fill them with souls used to power the factory. However, these souls started a rebel, teared into pieces their creators' corporal coatings and started to rampage. Moreover, they still grow in numbers.
 Nieśmiertelni? Być może. Jednak trupy jakieś do nas dochodzą z powierzchni. Czarnoksiężnicy próbowali zaszczepić w nich zdobyte dusze używane do napędzania fabryki. Te niestety zbuntowały się, rozszarpały fizyczne powłoki swych twórców i szaleją. Jest ich coraz więcej.
 	Marvo:
 Undead heor was always a slippery slope. Why have they not used pure Dark Magic?
@@ -534,7 +537,7 @@ Nieumarli heor to zawsze był śliski temat. Czemu nie użyli do tego czystej Cz
 ...sir general.
 ...Panie Generale.
 	General Huraxavirth:
-Don't be so snooty, boy, you are not a specialist. I dunno what went wrong, it's enough to say, there's a problem, and we, Fearsome Cohorts of Hell's Deliberaion, have to solve it. I'll be great test of your skills and a demonstration of our army's might!
+Don't be so snooty, boy, you are not a specialist. I dunno what went wrong, it's enough to say, there's a problem, and we, Fearsome Cohorts of Hell's Deliberation, have to solve it. I'll be great test of your skills and a demonstration of our army's might!
 Nie mędrkuj tak, chłopcze, nie jesteś specjalistą. Nie wiem co im tam siekło. Dość powiedzieć, że jest problem, a my, jako Straszliwe Kohorty Wyzwoleńcze Piekieł musimy go rozwiązać! To będzie świetny test waszych umiejętności i pokaz siły naszej armii! 
 	General Huraxavirth:
 For darkness and fire!
@@ -560,7 +563,7 @@ Hej ty! Co ty niby wyprawiasz, plebsie?
 Mind your words, petty minion of darkness! Once I was known as Dirraiel the Fearsome, I was the vilest of Dark Mages! Whole cities bowed before my...
 Zważ na słowa, sługusie mroku! Kiedyś zwałem się Dirraiel Straszliwy, byłem najpodlejszym z Czarnych Magów! Całe miasta padały na kolana przed moją...
 	Marvo:
-Palaver? Fly content? To who you are doing this buffoonery? You are apparently dead, and I will make sure you return to jar, you have been relased from.
+Palaver? Fly content? For who you are doing this buffoonery? You are apparently dead, and I will make sure you return to jar, you have been relased from.
 Gadaniną? Zawartością rozporka? Dla kogo kierujesz ten cyrk? Jesteś martwy, a ja dopilnuję, abyś wrócił grzecznie do słoika, z którego cię wypuszczono.
 
 2b.
@@ -582,3 +585,16 @@ PRĘDZEJ ZDECHNĘ!
 	Marvo:
 Unfortunate choice of words...
 Niefortunny dobór słów...
+
+3.
+	Phantom
+Admire my power, lesser beings!
+Podziwiajcie moją potęgę, podrzędne istoty!
+4.
+	Phantom
+LET ME SHOW YOU FEAR!
+POKAŻĘ WAM STRACH!
+3.
+	Marvo
+I did nothing useful here, it should not be like that! What about my promotion? Will I forever be the one to clean floors here?
+Nic tu nie zrobiłem, nie tak to powinno wyglądać! Co z moim awansem? Czy ja tu zawsze będę czyścił podłogi?
