@@ -587,14 +587,161 @@ Unfortunate choice of words...
 Niefortunny dobór słów...
 
 3.
-	Phantom
+	Phantom:
 Admire my power, lesser beings!
 Podziwiajcie moją potęgę, podrzędne istoty!
+
 4.
-	Phantom
+	Phantom:
 LET ME SHOW YOU FEAR!
 POKAŻĘ WAM STRACH!
-3.
-	Marvo
+
+5.
+	Phantom
+You cannot! Dirraiel the Fearsome will not bow before anyone! You will not lock me in glass cage!!! NOO!!!
+Nie macie prawa! Dirrael Straszliwy nie uklęknie przed nikim! Nie zamkniecie mnie w szklanej klatce!!! NIEE!!!
+
+5a.
+	General Huraxavirth:
+Why deviants and scums always get here? It would be fine to get someone keen and not troublemaking at least once.
+Czemu wykolejeńcy i szumowiny zawsze trafiają do nas? Raz przybyłby tutaj ktoś miły i bezproblemowy.
+	Marvo:
+I think, this is a matter of our reputation, sir.
+Wydaje mi się, że to kwestia reputacji, sir.
+	General Huraxavirth:
+Maybe. Also, congratulations for your courage. Not many Serfs would come here, they would prefer to flee. Your name...?
+Być może. I gratuluję odwagi, żołnierzu. Mało który Bezwolny dotarłby aż tutaj, woleliby zwiać. Nazywasz się...?
+	Marvo:
+Marvo, sir.
+Marvo, sir.
+	General Huraxavirth:
+This name may be worth remembering. Apparently Anuhvarran was right about you. Return to base.
+To imię może być warte zapamiętania. Najwidoczniej Anuhvarran nie pomylił się co do ciebie. Wracajmy do bazy.
+
+5b.
+	General Huraxavirth:
+Done. Return to our base, we should celebrate this victory!
+No i po problemie. Wracamy do bazy. Takie zwycięstwo wypada jakoś uczcić.
+	Marvo:
 I did nothing useful here, it should not be like that! What about my promotion? Will I forever be the one to clean floors here?
 Nic tu nie zrobiłem, nie tak to powinno wyglądać! Co z moim awansem? Czy ja tu zawsze będę czyścił podłogi?
+
+7.
+	General Huraxavirth:
+Retreat! I order you to retreat! Run away, cretins! You can achieve nothing here!
+Odwrót! Nakazuję odwrót! Uciekajcie kretyni! Nic tu po was!
+
+
+
+-----|||-----
+
+
+
+EVERYTHING ELSE
+
+Dollars are for automatic conversion to desired format
+
+$Nasnas
+Nasnas
+
+Some demons are very unlucky born as weak, that can’t have symetrial body. There give up two hands for one, stronger hand. This hand can anything make. There little demons have names Nasnas, they meet and become hangry population. There can eat bigger demons, that win some oil.
+Niektóre demony mają wielkiego pecha urodzić się tak słabymi, że nie są w stanie utrzymać symetrycznej sylwetki. Rezygnują one z dwóch kończyn na rzecz jednej, silniejszej, którą są w stanie cokolwiek zrobić. Diabliki te, zwane Nasnasami, zbierają się w wygłodniałe, żebracze chmary będące w stanie pożreć większe demony w całości, aby tylko zdobyć odrobinę smoły.
+
+$Imp Jester
+Imp Błazen
+
+Easy demons often meet in Imp Haus in south Arrainot. There names is Imp for the glory of Imp’Ariki’Kana. Imps think, they the best way in live in high and the strongest demons is give them entertainment, becouse there bodies are funny – could have funny face. 
+Niższe demony często zbierają się w Domu Impów na południu Arrainot. Zwą same siebie Impami na cześć jednego z założycieli – Imp'Ariki'Kana. Impy zakładają, iż najlepszym sposobem na przeżycie wśród większych i silniejszych demonów jest dostarczanie im rozrywki, dlatego starają się nadać swoim ciałom jak najzabawniejszy i najbardziej groteskowy wygląd – mogą mieć karykaturalne rysy twarzy, zakręcone, figlarne różki przypominające czapki błaznów i niepraktyczne skrzydełka, służące przede wszystkim do potykania się o nie. W wolnych chwilach zajmują się również okradaniem niczego nieświadomych obserwatorów ich wygłupów.
+
+$Imp Bellwether
+Imp Wodzirej
+
+Imp Bard is lider Red Carnaval – crazy paradise, then demons listen to music. 
+Wodzirej Impów jest przywódcą i ucieleśnieniem Czarnego Karnawału – wrzaskliwej i obłąkanej parady, w której demony zatracają się w bachicznym uniesieniu, oddając się kakofonicznej muzyce i rozpuście. Tam gdzie jest Wodzirej, tam jest zabawa – a razem z nią zniszczenia, podpalenia, bójki, krzyki i chaos. Diablęta te dyrygują tłuszczą i pozwalają, aby tłum robił to, co tylko sobie zamarzą, płacąc im w tańcu i śpiewie. 
+
+$Spawn
+Chochlik
+
+--
+Te malutkie, przypominające nietoperze demony to pyskate i krnąbrne gaduły, niczym sroki obsesyjnie zbierające błyskotki i biżuterię wszelkiej maści. Zazwyczaj służą oni jako zwiadowcy i posłańcy, informujący wojska Podziemia o ruchach wrogów.
+
+$Daemon
+Licho
+
+--
+Rozwinięty chochlik mutuje w licho, na wpół zezwierzęconego trupojada, który zwykł polować na osamotnione, bezbronne ofiary. Znana jest ich zdolność ściągania nieszczęść na tych, którzy odważą się spojrzeć w ich jedno, przekrwione oko.
+
+$Sparkil
+Skierek
+
+$Flamel
+Płomyk
+
+$Pyromaniac
+Piroman
+
+$Pyromaster
+Piromistrz
+
+$Inferior Demon
+Diablę
+
+$Hagul
+Hagul
+
+$Sufferer
+Cierpiętnik
+
+$Barhav
+Barhavi
+
+$Colossus
+Kolos
+
+$Vyggul
+Wygul
+
+$Serpent
+Serpent
+
+$Dragmal
+Dragul
+
+$Maggotul
+Czerwul
+
+$Wormlev
+Robatron
+
+$Baal
+Baal
+
+$Hound
+Ogar
+
+$Hell Hound
+Ogar Piekielny
+
+$Cerberus
+Cerber
+
+$Serf
+Bezwolny
+
+$Contractor
+Kontrahent
+
+$Servant
+Serwant
+
+$Succubus
+Sukkub
+
+$Seduceress
+Zwodzicielka
+
+$Hell Marquis
+Markiz Piekieł
+
+$Hell Duke
+Książę Piekieł
