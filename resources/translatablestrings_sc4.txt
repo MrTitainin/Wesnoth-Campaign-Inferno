@@ -1,0 +1,48 @@
+Undead Factory
+Po tych wydarzeniach moje życie stało się udręką. Na nowo poniżony i upodlony, zmuszany byłem do najniewdzięczniejszych prac w koszarach, oraz do wycieńczających ćwiczeń i morderczej musztry. Każde uchybienie karane było boleśnie. Wraz z brakiem krwi na nowo począłem odczuwać zmęczenie, senność i głód, nie mogłem ignorować też bólu dręczącego moje mięśnie i kości. Oprócz mnie było tu jeszcze kilkoro bezwolnych, którzy jednak zdawali się być skrajnie nietowarzyscy i nierozmowni. Nie dawano nam jeść, demony zdawały się tego niepotrzebować a na wszelkie błagania o choćby kawałek kości czy chleba słyszałem tylko pogardliwe teksty, abym otrząsnął się z tej iluzji śmiertelników, gdyż tutaj jedzenie to przywilej a nie przymus, jednak ja i tak chudłem w oczach.
+Nie wiem ile spędziłem czasu harując jak wół, gdyż z powodu siarczanych chmur nie dało się odróżnić dnia od nocy, jednak mogły to być tygodnie, nawet miesiące. Z czasem praca i musztra weszła mi w nawyk, a ignorowanie głodu zaczęło przynosić efekty - to faktycznie musiało się dziać tylko w mojej głowie. Przestałem narzekać, stwardniała moja wola, tak jak i wychudłe, żylaste ciało, które nabrało prawdziwej, nieudawanej magią sprawności. Nie spodziewałem się już, żeby moje Nieżycie wyglądało jakkolwiek inaczej, jednak wszystko zmieniło się, gdy generał otrzymał raport ze wschodnich dystryktów...
+teamname^Demons
+teamname^Undeads
+teamname^Undeads
+teamname^Undeads
+teamname^Undeads
+Listen carefully, larvas. Today is the day, in which you'll be able to prove yourself. In this valley a magical accident has just happened. Undead appeared.
+...But fromwhere undead here, below? Yet we're...
+Immortal? Maybe. But some corpses reach us from surface. Necromancers tried to fill them with souls used to power the factory. However, these souls started a rebel, teared into pieces their creators' corporal coatings and started to rampage. Moreover, they still grow in numbers.
+Undead heor was always a slippery slope. Why have they not used pure Dark Magic?
+...sir general.
+Don't be so snooty, boy, you are not a specialist. I dunno what went wrong, it's enough to say, there's a problem, and we, Fearsome Cohorts of Hell's Deliberation, have to solve it. I'll be great test of your skills and a demonstration of our army's might!
+
+For darkness and fire!
+All Demons
+For sulfur and tar!
+Prove myself, right? It may be my chanse for better living than meaningless floor scouring.
+Marvo must enter factory ruins
+Death of Marvo
+Death of General Huraxavirth
+Good, what now... there must be some source of all these undead.
+Dishonoured! Condemned! Raise upon my call! Hear my voice!
+Hey, you! What are you doing, pleb?
+Mind your words, petty minion of darkness! Once I was known as Dirraiel the Fearsome, I was the vilest of Dark Mages! Whole cities bowed before my...
+Palaver? Fly content? For who you are doing this buffoonery? You are apparently dead, and I will make sure you return to jar, you have been relased from.
+Lay down your weapon and surrender, ghost. You have nothing to lose anyway.
+Right! Stop playing this corpse factory and surrender!
+Mind your words, minions of darkness! Once I was known as Dirraiel the Fearsome, I was the vilest of Dark Mages! Whole cities bowed before my might!
+I do not care who you were. Now you are only a power supply, fuel source, and you will return to your phylactery.
+I'D RATHER DIE!
+Unfortunate choice of words...
+Defead that snooty phantom
+Death of Marvo
+Death of General Huraxavirth
+Admire my power, lesser beings!
+LET ME SHOW YOU FEAR!
+Ghosts that can fly over lava? They should not be able to do this! Something is definitely not right here.
+You cannot! Dirraiel the Fearsome will not bow before anyone! You will not lock me in glass cage!!! NOO!!!
+Why deviants and scums always get here? It would be fine to get someone keen and not troublemaking at least once.
+I think, this is a matter of our reputation, sir.
+Maybe. Also, congratulations for your courage. Not many Serfs would come here, they would prefer to flee. Your name...?
+Marvo, sir.
+This name may be worth remembering. Apparently Anuhvarran was right about you. Return to base.
+Done. Return to our base, we should celebrate this victory!
+I did nothing useful here, it should not be like that! What about my promotion? Will I forever be the one to clean floors here?
+Retreat! I order you to retreat! Run away, cretins! You can achieve nothing here!
