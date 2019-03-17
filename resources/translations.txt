@@ -133,7 +133,7 @@ You call us monsters although you do not look better. It's ill-mannered.
 Nazywasz nas poworami choć sam nie wyglądasz lepiej. To nieuprzejme.
 	Marvo // ALT:
 What are you... My face! Awful! I look like a nightmare!
-Co się... Moja twarz! Ochydstwo! Wyglądam jak koszmar senny!
+Co się... Moja twarz! Ochydstwo! Wyglądam koszmarnie!
 	Armless:
 Calm down and listen - I can and I will guide you out of these tunnels, to the nearest city. Here nobody is safe. And then... then we will see.
 Uspokój się i słuchaj - wyprowadzę cię stąd do najbliższego miasta, te tunele nie należą do bezpiecznych. A potem... potem zobaczymy.
@@ -710,11 +710,20 @@ Dragul
 $Maggotul
 Czerwul
 
+
+Skrajnie drapieżna i konkurencyjna natura demonów doprowadziła do ustanowienia domu Jadu. Ci zaawansowani truciciele to urodzeni masowi mordercy. Nie są najszybsi czy najdyskretniejsi, nie grzeszą też siłą fizyczną, jednak nie jest to im do niczego potrzebne – kwasy i toksyczne plwociny produkowane przez ich ciała wystarczą, aby uśmiercić cokolwiek, co znajdzie się w ich zasięgu.
+
 $Wormlev
 Robatron
 
+
+Czerwul, gromadząc w sobie wystarczająco dużo gruczołów jadowych, staje się Robatronem. Spijają one ohydne wydzieliny, które wylewają się z kadzi w ich Domu Jadu, aby później spluwać nimi we wrogów i zmieniać ich w parującą papkę.
+
 $Baal
 Baal
+
+
+Te obrzydliwe i przerażające demony są zwiastunami śmierci i rozkładu. Gdziekolwiek przypełznie Baal, tam też ziemia umiera, a ptaki spadają z nieba, powoli zmieniając się w rozkładającą się masę. Podobno śluz na ich skórze jest tak toksyczny, że raz ugodzony włócznią, zatruje przez nią nie tylko jeźdźca, ale i konia pod nim. Wiadomo, że istnieje jeszcze czwarta forma demona Jadu, wykluwająca się bezpośrednio z ciał Baalów, ale prócz przywódcy domu, straszliwego Parakki o Tysiącu Oczu, nie pojawił się żaden taki demon
 
 $Hound
 Ogar
