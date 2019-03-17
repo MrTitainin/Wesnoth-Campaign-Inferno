@@ -25,6 +25,65 @@ Jakiś czas później mój starszy brat musiał wyjechać w daleką podróż, gn
 The flowers on their graves did not even fade when I proclaimed myself the lord of all neightbouring lands. Shortly after that, I dismissed all the service to make some improvements in my appearance and condition without arousing suspicions. The next 60 years were filled with laughter, drunkenness and lewdness. I throwed parties, routs, hunts, balls, over and over again, wanting to make up for those years of social rejection, which I experienced in my childhood. From time to time servants from Arrainot reminded me, that as a vampire I had duties to the Hell Lords, but I choosed to ignore them, asking with a charming smile for another loan from their treasury. I could keep on living like that for ages... if only this one damned night did not happen.
 Kwiaty na ich grobach nie zdążyły nawet zwiędnąć, gdy ogłosiłem się panem tej okolicy. Tuż po tym odprawiłem całą ówczesną służbę aby poczynić pewne usprawnienia w moim wyglądzie i kondycji bez wzbudzania podejrzeń. Następne 60 lat wypełnione były śmiechem, pijaństwem i wulgarną lubieżnością. Wyprawiałem bal za balem, raut za rautem, polowanie za polowaniem, chcąc odpłacić sobie te lata odtrącenia społecznego. Od czasu do czasu kontaktowali się ze mną słudzy Arrainot przypominając, że jako wampir mam obowiązki wobec Władców Piekieł, jednak wolałem ich ignorować, z uroczym uśmiechem prosząc o kolejną pożyczkę z ich skarbca. Mógłbym tak żyć jeszcze setki lat... gdyby nie ten jeden, przeklęty wieczór.
 
+1.
+	Marvo
+Co się dzieje? Ledwo słońce zaszło, przyjdźcie za godzinę, dajcie mi spać!
+
+2.
+	Gri'ash
+Mistrzu! Ta sprawa nie może zwlekać! Wieśniacy!
+
+3.
+	Marvo
+No wieśniacy. Mały ludek, co tam się krząta po polach, niezbyt smaczni, brudni, głupawi. Coś z nimi?
+
+4.
+	Gri'ash
+Idą na nasz dwór! Mają widły i pochodnie!
+
+5.	Marvo
+Hm... Dobrze, dobrze.    ...     Zaraz, co?
+
+6.
+	Tłum
+Idziemy chopy! Ubijem zmora! Śmierć, hatfu, Hrabiemu! Nie będzie na nas pasożycić Krwiopijca jeden!
+
+7.	
+	Marvo
+...Wyglądają uroczo... No ale nic, trzeba będzie zaprowadzić w wiosce porządek. Lepiej żeby więcej nie pomyśleli, że mogą sobie tak po prostu organizować rewoltę!
+
+
+Marvo enters village
+
+8.	
+	Marvo
+Przynieście alkohole, szykuje się świetna zabawa!
+
+9.	
+	Gri'ash
+Mistrzu! W jaskini koło dworu znajduje się przesyłka awaryjna. Proszę użyć w miarę potrzeb.
+
+
+10.
+	Beast
+WROOAAARG!!!
+
+11.
+	Marvo
+No proszę, przysłali coś przydatnego.
+
+
+Marvo dies
+
+12. 
+	Marvo
+Listen, I do not intend to kill all of you, just stop raiding my castle and keep your mouths shut, so we can live in transquility. Can we agree to that?
+
+13.
+	Marvo
+How come, that I can't even suppress a small rebelion?
+Aj co to się zadziało...
+
 
 
 -----|||-----
@@ -133,7 +192,7 @@ You call us monsters although you do not look better. It's ill-mannered.
 Nazywasz nas poworami choć sam nie wyglądasz lepiej. To nieuprzejme.
 	Marvo // ALT:
 What are you... My face! Awful! I look like a nightmare!
-Co się... Moja twarz! Ochydstwo! Wyglądam jak koszmar senny!
+Co się... Moja twarz! Ochydstwo! Wyglądam jak koszmarnie!
 	Armless:
 Calm down and listen - I can and I will guide you out of these tunnels, to the nearest city. Here nobody is safe. And then... then we will see.
 Uspokój się i słuchaj - wyprowadzę cię stąd do najbliższego miasta, te tunele nie należą do bezpiecznych. A potem... potem zobaczymy.
@@ -505,6 +564,9 @@ Bezręki... To musiał być on. Dobrze że w tym miejscu znalazłem jakiegoś so
 
 MISSION IV
 
+Po tych wydarzeniach moje życie stało się udręką. Na nowo poniżony i upodlony, zmuszany byłem do najniewdzięczniejszych prac w koszarach, oraz do wycieńczających ćwiczeń i morderczej musztry. Każde uchybienie karane było boleśnie. Wraz z brakiem krwi na nowo począłem odczuwać zmęczenie, senność i głód, nie mogłem ignorować też bólu dręczącego moje mięśnie i kości. Oprócz mnie było tu jeszcze kilkoro bezwolnych, którzy jednak zdawali się być skrajnie nietowarzyscy i nierozmowni. Nie dawano nam jeść, demony zdawały się tego niepotrzebować a na wszelkie błagania o choćby kawałek kości czy chleba słyszałem tylko pogardliwe teksty, abym otrząsnął się z tej iluzji śmiertelników, gdyż tutaj jedzenie to przywilej a nie przymus, jednak ja i tak chudłem w oczach.
+Nie wiem ile spędziłem czasu harując jak wół, gdyż z powodu siarczanych chmur nie dało się odróżnić dnia od nocy, jednak mogły to być tygodnie, nawet miesiące. Z czasem praca i musztra weszła mi w nawyk, a ignorowanie głodu zaczęło przynosić efekty - to faktycznie musiało się dziać tylko w mojej głowie. Przestałem narzekać, stwardniała moja wola, tak jak i wychudłe, żylaste ciało, które nabrało prawdziwej, nieudawanej magią sprawności. Nie spodziewałem się już, żeby moje Nieżycie wyglądało jakkolwiek inaczej, jednak wszystko zmieniło się, gdy generał otrzymał raport ze wschodnich dystryktów...
+
 ---
 Objectives (all):
 Marvo must enter factory ruins
@@ -597,11 +659,15 @@ LET ME SHOW YOU FEAR!
 POKAŻĘ WAM STRACH!
 
 5.
+	General Huraxavirth
+Ghosts that can fly over lava? They should not be able to do this! Something is definitely not right here.
+
+6.
 	Phantom
 You cannot! Dirraiel the Fearsome will not bow before anyone! You will not lock me in glass cage!!! NOO!!!
 Nie macie prawa! Dirrael Straszliwy nie uklęknie przed nikim! Nie zamkniecie mnie w szklanej klatce!!! NIEE!!!
 
-5a.
+6a.
 	General Huraxavirth:
 Why deviants and scums always get here? It would be fine to get someone keen and not troublemaking at least once.
 Czemu wykolejeńcy i szumowiny zawsze trafiają do nas? Raz przybyłby tutaj ktoś miły i bezproblemowy.
@@ -618,15 +684,17 @@ Marvo, sir.
 This name may be worth remembering. Apparently Anuhvarran was right about you. Return to base.
 To imię może być warte zapamiętania. Najwidoczniej Anuhvarran nie pomylił się co do ciebie. Wracajmy do bazy.
 
-5b.
+6b.
 	General Huraxavirth:
 Done. Return to our base, we should celebrate this victory!
 No i po problemie. Wracamy do bazy. Takie zwycięstwo wypada jakoś uczcić.
+
+7.
 	Marvo:
 I did nothing useful here, it should not be like that! What about my promotion? Will I forever be the one to clean floors here?
 Nic tu nie zrobiłem, nie tak to powinno wyglądać! Co z moim awansem? Czy ja tu zawsze będę czyścił podłogi?
 
-7.
+8.
 	General Huraxavirth:
 Retreat! I order you to retreat! Run away, cretins! You can achieve nothing here!
 Odwrót! Nakazuję odwrót! Uciekajcie kretyni! Nic tu po was!
